@@ -9,6 +9,7 @@ Contributions to the seven major partisan 527 political organizations from utili
 | `top_utility_recipients.csv` | 50 | The 50 utility parent companies that have contributed the most across all years and all 527 orgs. |
 | `yearly_totals_by_org.csv` | ~150 | Total contributions and contribution counts broken out by year and recipient organization. One row per (year, org) pair. |
 | `all_contributions.csv` | ~3,600 | The full searchable contribution table. One row per matched contribution, sorted by year then amount, both descending. |
+| `aggregated_by_utility_year_org.csv` | ~1,800 | Pre-aggregated rollup with one row per (year, utility parent, recipient org). Useful for filterable tables and pivot-style charts where you want to slice by utility *and* recipient without ingesting every individual contribution. |
 
 ## Source
 
@@ -65,6 +66,18 @@ The seven 527 organizations tracked in this dataset:
 | `contribution_date` | Date in `YYYY-MM-DD` format. |
 | `match_type` | How the contributor name was matched: `entity_exact`, `entity_simplified` (alias appears as substring), or `entity_word_boundary` (short alias with word boundaries). See [methodology](../METHODOLOGY.md#entity-matching). |
 
+### `aggregated_by_utility_year_org.csv`
+
+| Column | Description |
+|---|---|
+| `year` | Calendar year of the contributions in this row. |
+| `utility_parent_company` | Parent company (subsidiaries rolled up). |
+| `org_short` | Recipient 527 organization. |
+| `total_contributions_usd` | Sum across the (year, parent, org) cell, rounded to whole dollars. |
+| `n_contributions` | Number of individual matched contributions in the cell. |
+
+Sorted by `year` descending, then `total_contributions_usd` descending. The dataset spans the same coverage window as `all_contributions.csv`; it is simply pre-aggregated for tools that don't want to compute group-bys client-side.
+
 ## Matching and dedup
 
 Utility-name matching follows the layered approach described in [`METHODOLOGY.md`](../METHODOLOGY.md#entity-matching), against a curated alias list with parent-company rollups. Two-pass deduplication is applied to handle IRS amended and supplemental filings; see [`METHODOLOGY.md`](../METHODOLOGY.md#deduplication) for details.
@@ -92,6 +105,7 @@ These files are sized and shaped for direct ingestion by Datawrapper, Flourish, 
 - `top_utility_recipients.csv` → ranked bar chart of the top 50.
 - `yearly_totals_by_org.csv` → multi-line chart with one series per `org_short`.
 - `all_contributions.csv` → searchable / filterable data table.
+- `aggregated_by_utility_year_org.csv` → searchable table for filtering by utility and recipient.
 
 The raw URLs (suitable for chart "external dataset" fields) are:
 
@@ -99,6 +113,7 @@ The raw URLs (suitable for chart "external dataset" fields) are:
 https://raw.githubusercontent.com/Energy-and-Policy-Institute/epi-public-data/main/527/top_utility_recipients.csv
 https://raw.githubusercontent.com/Energy-and-Policy-Institute/epi-public-data/main/527/yearly_totals_by_org.csv
 https://raw.githubusercontent.com/Energy-and-Policy-Institute/epi-public-data/main/527/all_contributions.csv
+https://raw.githubusercontent.com/Energy-and-Policy-Institute/epi-public-data/main/527/aggregated_by_utility_year_org.csv
 ```
 
 ## Citation
