@@ -1031,6 +1031,7 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2021,RGA,NRG Energy,NRG Energy,"NRG ENERGY, INC.",50000,2021-11-19,entity_simplified
 2021,RGA,NRG Energy,NRG Energy,"NRG ENERGY, INC.",50000,2021-11-19,entity_simplified
 2021,RGA,Nuclear Energy Institute,Nuclear Energy Institute,NUCLEAR ENERGY INSTITUTE,50000,2021-06-21,entity_exact
+2021,RGA,ONE Gas,ONE Gas,ONEOK,50000,2021-03-26,entity_word_boundary
 2021,RGA,Pinnacle West Capital,Pinnacle West,PINNACLE WEST CAPITAL CORPORATION,50000,2021-11-29,entity_simplified
 2021,RGA,Pinnacle West Capital,Pinnacle West,PINNACLE WEST CAPITAL CORPORATION,50000,2021-12-21,entity_simplified
 2021,RGA,Public Service Enterprise Group,PSEG Services Corp,PSEG SERVICES CORP.,50000,2021-10-12,entity_simplified
@@ -1215,6 +1216,7 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2020,RGA,Dominion Energy,Dominion Energy Services,DOMINION ENERGY SERVICES INC.,50000,2020-10-05,entity_simplified
 2020,RGA,Fortis,ITC Holdings,"ITC HOLDINGS, INC.",50000,2020-10-05,entity_simplified
 2020,RGA,NRG Energy,NRG Energy,"NRG ENERGY, INC.",50000,2020-03-16,entity_simplified
+2020,RGA,ONE Gas,ONE Gas,ONEOK,50000,2020-07-16,entity_word_boundary
 2020,RGA,Pinnacle West Capital,Pinnacle West,PINNACLE WEST CAPITAL CORPORATION,50000,2020-04-14,entity_simplified
 2020,RGA,Spire,Spire Missouri,SPIRE MISSOURI INC.,50000,2020-08-03,entity_word_boundary
 2020,RSLC,NextEra,NextEra,NEXTERA ENERGY RESOURCES LLC,50000,2020-06-15,entity_word_boundary
@@ -1352,6 +1354,7 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2019,RGA,Fortis,ITC Holdings,"ITC HOLDINGS, INC.",50000,2019-10-28,entity_simplified
 2019,RGA,NextEra,NextEra,NEXTERA ENERGY RESOURCES LLC,50000,2019-11-05,entity_word_boundary
 2019,RGA,NRG Energy,NRG Energy,"NRG ENERGY, INC.",50000,2019-10-21,entity_simplified
+2019,RGA,ONE Gas,ONE Gas,ONEOK,50000,2019-04-25,entity_word_boundary
 2019,RGA,Public Service Enterprise Group,PSEG Services Corp,PSEG SERVICES CORP.,50000,2019-09-23,entity_simplified
 2019,RGA,Southern Company,Southern Company Services,SOUTHERN COMPANY SERVICES INC.,50000,2019-12-30,entity_simplified
 2019,RSLC,Alliant Energy,Alliant Energy,ALLIANT ENERGY CORPORATION SERVICES INC,50000,2019-09-17,entity_simplified

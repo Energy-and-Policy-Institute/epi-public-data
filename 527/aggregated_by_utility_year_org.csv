@@ -1,0 +1,1846 @@
+year,utility_parent_company,org_short,total_contributions_usd,n_contributions
+2026,Dominion Energy,DGA,265000,2
+2026,Avangrid,DGA,250000,1
+2026,Vistra Energy,DGA,250000,1
+2026,Dominion Energy,RGA,200000,2
+2026,Vistra Energy,RSLC,158500,5
+2026,Dominion Energy,RSLC,150000,1
+2026,Southern Company,DGA,150000,1
+2026,American Electric Power,RGA,125000,1
+2026,Dominion Energy,DAGA,125000,1
+2026,NextEra,RAGA,125000,1
+2026,American Electric Power,DGA,100000,1
+2026,Avangrid,RGA,100000,1
+2026,Dominion Energy,GOPAC,100000,1
+2026,Duke Energy,RGA,100000,1
+2026,Edison Electric Institute,RGA,100000,1
+2026,Essential Utilities,RSLC,100000,3
+2026,NextEra,GOPAC,100000,2
+2026,Nuclear Energy Institute,DGA,100000,1
+2026,Southern Company,RSLC,100000,1
+2026,Vistra Energy,DLCC,100000,1
+2026,Pinnacle West Capital,GOPAC,95000,3
+2026,NextEra,DLCC,75000,2
+2026,NextEra,RGA,75000,3
+2026,American Gas Association,RSLC,70000,3
+2026,NRG Energy,RAGA,70000,2
+2026,NRG Energy,DAGA,50000,1
+2026,Nuclear Energy Institute,RSLC,50000,1
+2026,OGE Energy Corp,RAGA,50000,1
+2026,OGE Energy Corp,RGA,50000,1
+2026,Emera,GOPAC,40000,2
+2026,Fortis,DGA,35000,2
+2026,NRG Energy,DLCC,35000,2
+2026,NextEra,RSLC,35000,2
+2026,National Grid,DGA,30000,1
+2026,American Electric Power,RSLC,25000,1
+2026,American Gas Association,DGA,25000,1
+2026,Edison Electric Institute,GOPAC,25000,1
+2026,Fortis,DLCC,25000,1
+2026,NRG Energy,RSLC,25000,1
+2026,NextEra,DGA,25000,1
+2026,Vistra Energy,DAGA,25000,1
+2026,Vistra Energy,RAGA,25000,1
+2026,Duquesne Light Company,DLCC,22000,1
+2026,Edison Electric Institute,RSLC,20000,2
+2026,American Gas Association,DAGA,15000,1
+2026,Southwest Gas,GOPAC,15000,1
+2026,Edison Electric Institute,DGA,10000,1
+2026,NiSource,DGA,10000,1
+2025,Dominion Energy,DGA,835000,7
+2025,Dominion Energy,RAGA,800000,4
+2025,Edison Electric Institute,RGA,510036,2
+2025,NextEra,RGA,410000,7
+2025,NextEra,DGA,373000,7
+2025,Duke Energy,GOPAC,365000,4
+2025,Avangrid,DGA,325000,3
+2025,Vistra Energy,RGA,301500,5
+2025,Dominion Energy,GOPAC,275000,3
+2025,Pinnacle West Capital,DGA,275000,2
+2025,Public Service Enterprise Group,DGA,260000,4
+2025,American Electric Power,RGA,250000,1
+2025,Dominion Energy,DAGA,250000,2
+2025,Southern Company,RAGA,250000,2
+2025,Vistra Energy,DGA,250000,1
+2025,Public Service Enterprise Group,RGA,225000,4
+2025,Southern Company,RGA,182769,3
+2025,NRG Energy,DGA,165000,4
+2025,Southern Company,DGA,150000,1
+2025,Vistra Energy,RSLC,145950,4
+2025,Vistra Energy,DLCC,127500,3
+2025,Public Service Enterprise Group,DLCC,125000,1
+2025,Edison Electric Institute,DGA,110000,2
+2025,NextEra,GOPAC,110000,4
+2025,Nuclear Energy Institute,RGA,106947,2
+2025,NiSource,DGA,105000,4
+2025,Berkshire Hathaway Energy,RGA,100500,3
+2025,American Electric Power,DGA,100000,1
+2025,American Gas Association,RAGA,100000,2
+2025,Avangrid,DLCC,100000,1
+2025,Avangrid,RGA,100000,1
+2025,Avangrid,RSLC,100000,1
+2025,Dominion Energy,RGA,100000,1
+2025,Dominion Energy,RSLC,100000,1
+2025,Duke Energy,DGA,100000,1
+2025,NRG Energy,RGA,100000,1
+2025,Nuclear Energy Institute,DGA,100000,1
+2025,Xcel Energy,DGA,100000,4
+2025,NiSource,RGA,95000,3
+2025,AES Corporation,DGA,90000,3
+2025,Berkshire Hathaway Energy,RAGA,75000,3
+2025,PG&E Corp,DAGA,71656,2
+2025,American Gas Association,RSLC,70000,3
+2025,Public Service Enterprise Group,RSLC,65000,2
+2025,Exelon,DGA,60000,4
+2025,AES Corporation,RGA,55500,3
+2025,OGE Energy Corp,RGA,53000,3
+2025,NextEra,DAGA,52500,2
+2025,Alliant Energy,DGA,50000,1
+2025,Alliant Energy,RGA,50000,1
+2025,Alta Gas,DGA,50000,1
+2025,American Electric Power,RSLC,50000,2
+2025,DTE Energy,DGA,50000,1
+2025,Duke Energy,DLCC,50000,1
+2025,Enbridge,RAGA,50000,2
+2025,Essential Utilities,RSLC,50000,2
+2025,NRG Energy,DAGA,50000,2
+2025,NRG Energy,RAGA,50000,2
+2025,Nuclear Energy Institute,DLCC,50000,1
+2025,Nuclear Energy Institute,RSLC,50000,1
+2025,OGE Energy Corp,RAGA,50000,1
+2025,Salt River Project,DGA,50000,1
+2025,Southern Company,DAGA,50000,1
+2025,Pinnacle West Capital,GOPAC,45000,2
+2025,American Gas Association,DGA,35000,2
+2025,Edison Electric Institute,GOPAC,35000,1
+2025,CenterPoint Energy,DGA,30000,2
+2025,Fortis,RGA,30000,2
+2025,Duke Energy,RSLC,27500,2
+2025,Edison Electric Institute,DLCC,25900,4
+2025,Alliant Energy,DAGA,25000,1
+2025,Alliant Energy,RAGA,25000,1
+2025,American Electric Power,RAGA,25000,1
+2025,American Gas Association,RGA,25000,1
+2025,CMS Energy,DGA,25000,1
+2025,CenterPoint Energy,RGA,25000,1
+2025,Duke Energy,RAGA,25000,1
+2025,Edison Electric Institute,DAGA,25000,1
+2025,Edison Electric Institute,RAGA,25000,1
+2025,Emera,GOPAC,25000,2
+2025,Fortis,DGA,25000,1
+2025,Fortis,DLCC,25000,1
+2025,NRG Energy,DLCC,25000,2
+2025,NRG Energy,RSLC,25000,1
+2025,NextEra,RAGA,25000,3
+2025,Nuclear Energy Institute,DAGA,25000,1
+2025,Nuclear Energy Institute,RAGA,25000,1
+2025,Pinnacle West Capital,RSLC,25000,1
+2025,Southern Company,GOPAC,25000,1
+2025,Vistra Energy,DAGA,25000,1
+2025,Vistra Energy,RAGA,25000,1
+2025,Xcel Energy,GOPAC,25000,1
+2025,Calpine,RSLC,20000,1
+2025,Edison Electric Institute,RSLC,20000,2
+2025,Emera,RSLC,17500,2
+2025,NextEra,RSLC,17500,3
+2025,American Gas Association,DLCC,15600,3
+2025,American Electric Power,GOPAC,15000,2
+2025,American Gas Association,DAGA,15000,1
+2025,Duquesne Light Company,RSLC,15000,1
+2025,National Rural Electric Cooperative Association,DAGA,15000,1
+2025,PPL Corporation,RAGA,15000,1
+2025,Berkshire Hathaway Energy,DGA,10000,1
+2025,Duke Energy,DAGA,10000,1
+2025,NiSource,GOPAC,10000,1
+2025,Portland General Electric,DGA,10000,1
+2025,Puget Sound Energy,GOPAC,10000,1
+2025,Southwest Gas,DGA,10000,1
+2025,Ameren,RGA,7500,1
+2025,Northwestern Energy,RGA,5000,1
+2025,PPL Corporation,RSLC,5000,1
+2025,Xcel Energy,DLCC,5000,1
+2024,NextEra,DGA,627500,8
+2024,Avangrid,DGA,350000,3
+2024,NextEra,RGA,306838,5
+2024,NextEra,RSLC,300000,10
+2024,Duke Energy,GOPAC,290000,5
+2024,American Electric Power,RGA,250000,1
+2024,Vistra Energy,DGA,250000,1
+2024,Berkshire Hathaway Energy,RGA,225000,3
+2024,Dominion Energy,GOPAC,205000,3
+2024,NextEra,RAGA,201400,3
+2024,Dominion Energy,RSLC,201000,5
+2024,Edison Electric Institute,RGA,189364,4
+2024,NRG Energy,DGA,171983,4
+2024,Vistra Energy,RSLC,170000,4
+2024,Southern Company,RGA,159652,4
+2024,Avangrid,RSLC,155000,3
+2024,Duke Energy,RSLC,155000,2
+2024,Dominion Energy,DGA,150000,2
+2024,Exelon,DGA,150000,3
+2024,NextEra,DLCC,150000,2
+2024,Calpine,RSLC,140000,4
+2024,Alliant Energy,RSLC,125000,2
+2024,Dominion Energy,RAGA,125000,1
+2024,Duke Energy,DGA,125000,2
+2024,Edison Electric Institute,DGA,125000,3
+2024,Xcel Energy,DGA,125000,3
+2024,NextEra,GOPAC,110000,3
+2024,NiSource,RGA,106000,7
+2024,Avangrid,DLCC,105000,2
+2024,Vistra Energy,RGA,100500,2
+2024,American Electric Power,DGA,100000,1
+2024,Berkshire Hathaway Energy,RSLC,100000,2
+2024,Dominion Energy,DLCC,100000,1
+2024,Dominion Energy,RGA,100000,1
+2024,Duke Energy,RGA,100000,1
+2024,NRG Energy,RGA,100000,1
+2024,Nuclear Energy Institute,DGA,100000,1
+2024,Nuclear Energy Institute,RGA,100000,1
+2024,Southern Company,RSLC,100000,3
+2024,Vistra Energy,DLCC,100000,1
+2024,Pinnacle West Capital,GOPAC,85000,2
+2024,PG&E Corp,DAGA,80560,2
+2024,Public Service Enterprise Group,DGA,80000,3
+2024,American Gas Association,RSLC,77500,4
+2024,Alliant Energy,RGA,75500,3
+2024,AES Corporation,DGA,75000,2
+2024,Public Service Enterprise Group,RSLC,75000,2
+2024,American Electric Power,RSLC,60000,3
+2024,Berkshire Hathaway Energy,RAGA,60000,3
+2024,NiSource,DGA,60000,3
+2024,Fortis,RGA,55000,2
+2024,Nuclear Energy Institute,RSLC,55000,2
+2024,OGE Energy Corp,RGA,53000,3
+2024,NRG Energy,DAGA,52220,2
+2024,AES Corporation,RGA,50500,2
+2024,Alliant Energy,DGA,50000,1
+2024,Alta Gas,DGA,50000,1
+2024,Avangrid,RGA,50000,2
+2024,Duke Energy,DLCC,50000,1
+2024,Duke Energy,RAGA,50000,2
+2024,Entergy,RGA,50000,1
+2024,Essential Utilities,RSLC,50000,1
+2024,Fortis,DGA,50000,1
+2024,NRG Energy,RAGA,50000,2
+2024,NextEra,DAGA,50000,1
+2024,Nuclear Energy Institute,DLCC,50000,1
+2024,OGE Energy Corp,RAGA,50000,1
+2024,Pinnacle West Capital,DGA,50000,1
+2024,Southern Company,DAGA,50000,1
+2024,Southern Company,DGA,50000,1
+2024,American Gas Association,RAGA,40000,2
+2024,CenterPoint Energy,RSLC,40000,2
+2024,Fortis,RSLC,37500,3
+2024,Edison Electric Institute,GOPAC,35000,1
+2024,Emera,RSLC,35000,3
+2024,Emera,RAGA,30000,2
+2024,Edison Electric Institute,DLCC,25900,4
+2024,Alliant Energy,DAGA,25000,1
+2024,Alliant Energy,RAGA,25000,1
+2024,American Electric Power,RAGA,25000,1
+2024,American Gas Association,DGA,25000,1
+2024,American Gas Association,RGA,25000,1
+2024,Berkshire Hathaway Energy,DGA,25000,1
+2024,Duke Energy,DAGA,25000,1
+2024,Duquesne Light Company,RSLC,25000,1
+2024,Edison Electric Institute,DAGA,25000,1
+2024,Edison Electric Institute,RAGA,25000,1
+2024,Enbridge,RAGA,25000,1
+2024,Fortis,DLCC,25000,1
+2024,Fortis,GOPAC,25000,1
+2024,NRG Energy,DLCC,25000,1
+2024,NRG Energy,RSLC,25000,1
+2024,National Grid,DGA,25000,1
+2024,Nuclear Energy Institute,DAGA,25000,1
+2024,Nuclear Energy Institute,RAGA,25000,1
+2024,TXNM Energy,DGA,25000,1
+2024,Vistra Energy,RAGA,25000,1
+2024,Xcel Energy,RGA,25000,1
+2024,Xcel Energy,DLCC,22500,2
+2024,CenterPoint Energy,DGA,20000,1
+2024,Pinnacle West Capital,RSLC,20000,1
+2024,Southwest Gas,GOPAC,20000,2
+2024,American Gas Association,DAGA,15000,1
+2024,American Gas Association,DLCC,15000,1
+2024,Avangrid,DAGA,15000,1
+2024,Emera,GOPAC,15000,1
+2024,Xcel Energy,RSLC,15000,1
+2024,American Electric Power,GOPAC,10000,1
+2024,Atmos Energy,RGA,10000,1
+2024,Berkshire Hathaway Energy,DLCC,10000,1
+2024,Duquesne Light Company,DGA,10000,1
+2024,Edison Electric Institute,RSLC,10000,2
+2024,Enbridge,DGA,10000,1
+2024,Southwest Gas,DGA,10000,1
+2024,CenterPoint Energy,DLCC,5000,1
+2024,Southwest Gas,RSLC,5000,1
+2024,Evergy,RSLC,4689,1
+2023,Dominion Energy,RSLC,601000,10
+2023,NextEra,RGA,500000,2
+2023,NextEra,RSLC,423750,11
+2023,NextEra,DGA,400000,4
+2023,NRG Energy,DGA,275000,2
+2023,NRG Energy,RGA,260000,2
+2023,American Electric Power,RGA,250000,1
+2023,Avangrid,DGA,250000,1
+2023,Dominion Energy,RGA,250000,1
+2023,Southern Company,RGA,225000,3
+2023,Duke Energy,GOPAC,220000,3
+2023,Exelon,DGA,212500,6
+2023,Berkshire Hathaway Energy,RGA,200000,2
+2023,Dominion Energy,GOPAC,200000,2
+2023,Public Service Enterprise Group,DGA,200000,1
+2023,Duke Energy,RSLC,190000,6
+2023,Southern Company,DGA,175000,2
+2023,Dominion Energy,DGA,150000,2
+2023,Vistra Energy,DGA,142500,4
+2023,Alliant Energy,RSLC,135000,4
+2023,Duke Energy,DGA,135000,2
+2023,CenterPoint Energy,RGA,125000,4
+2023,Edison Electric Institute,DGA,125000,2
+2023,Southern Company,RAGA,125000,1
+2023,Alliant Energy,DGA,100000,1
+2023,American Electric Power,DGA,100000,1
+2023,Avangrid,DLCC,100000,1
+2023,Dominion Energy,DAGA,100000,2
+2023,Duke Energy,DLCC,100000,2
+2023,Edison Electric Institute,RGA,100000,1
+2023,Fortis,DGA,100000,3
+2023,National Grid,DGA,100000,1
+2023,NextEra,GOPAC,100000,2
+2023,NextEra,RAGA,100000,1
+2023,Nuclear Energy Institute,DGA,100000,1
+2023,Nuclear Energy Institute,RGA,100000,1
+2023,Vistra Energy,RGA,100000,1
+2023,Vistra Energy,RSLC,100000,5
+2023,Southern Company,DAGA,80000,3
+2023,NRG Energy,DAGA,76000,3
+2023,Berkshire Hathaway Energy,RAGA,75000,2
+2023,NextEra,DLCC,75000,3
+2023,Public Service Enterprise Group,DLCC,75000,1
+2023,American Electric Power,RSLC,70000,4
+2023,Fortis,RGA,60000,2
+2023,Nuclear Energy Institute,RSLC,55000,2
+2023,PG&E Corp,DAGA,55000,2
+2023,Spire,RGA,55000,2
+2023,Vistra Energy,DAGA,55000,3
+2023,Vistra Energy,DLCC,55000,3
+2023,NRG Energy,RAGA,52451,3
+2023,AES Corporation,DGA,50000,1
+2023,AES Corporation,RGA,50000,1
+2023,Avangrid,RSLC,50000,1
+2023,Dominion Energy,RAGA,50000,1
+2023,Edison Electric Institute,RSLC,50000,2
+2023,NextEra,DAGA,50000,1
+2023,Nuclear Energy Institute,DLCC,50000,1
+2023,Public Service Enterprise Group,RGA,50000,1
+2023,Public Service Enterprise Group,RSLC,50000,2
+2023,Avangrid,DAGA,47500,2
+2023,Fortis,RSLC,47500,3
+2023,NRG Energy,DLCC,45000,3
+2023,CenterPoint Energy,RSLC,40000,2
+2023,Xcel Energy,DGA,40000,2
+2023,Southern Company,RSLC,35000,2
+2023,Alliant Energy,RGA,25500,2
+2023,Fortis,DLCC,25300,2
+2023,Alliant Energy,DAGA,25000,1
+2023,Alliant Energy,RAGA,25000,1
+2023,American Electric Power,RAGA,25000,1
+2023,Calpine,RSLC,25000,2
+2023,DTE Energy,DGA,25000,1
+2023,Edison Electric Institute,DAGA,25000,1
+2023,Edison Electric Institute,DLCC,25000,1
+2023,Edison Electric Institute,GOPAC,25000,1
+2023,Eversource,DAGA,25000,1
+2023,Fortis,GOPAC,25000,1
+2023,NRG Energy,RSLC,25000,1
+2023,Sempra Energy,DGA,25000,1
+2023,Vistra Energy,RAGA,25000,1
+2023,Xcel Energy,RGA,25000,1
+2023,American Gas Association,RGA,20000,1
+2023,Emera,RSLC,20000,2
+2023,PPL Corporation,RAGA,15520,2
+2023,American Gas Association,DAGA,15000,1
+2023,Emera,RAGA,15000,1
+2023,NiSource,DGA,15000,1
+2023,Xcel Energy,DLCC,15000,1
+2023,Xcel Energy,RSLC,15000,1
+2023,American Electric Power,GOPAC,10000,1
+2023,Atmos Energy,RGA,10000,1
+2023,Duke Energy,RGA,10000,1
+2023,Puget Sound Energy,DLCC,10000,1
+2023,Southwest Gas,DGA,10000,1
+2023,Calpine,DGA,5000,1
+2023,CenterPoint Energy,DGA,5000,1
+2023,Pinnacle West Capital,RSLC,5000,1
+2023,Puget Sound Energy,GOPAC,5000,1
+2023,CenterPoint Energy,DLCC,2500,1
+2023,Southwest Gas,RSLC,2500,1
+2023,NiSource,RGA,2000,1
+2023,Northwestern Energy,RGA,2000,1
+2023,American Gas Association,DLCC,600,2
+2023,American Gas Association,RAGA,400,1
+2022,Pinnacle West Capital,RGA,750000,5
+2022,NextEra,RGA,550000,3
+2022,NextEra,RSLC,421000,12
+2022,NextEra,DGA,415000,4
+2022,American Electric Power,RGA,350000,2
+2022,Duke Energy,RSLC,302500,5
+2022,Duke Energy,GOPAC,280000,4
+2022,Dominion Energy,RGA,250000,1
+2022,Exelon,DGA,225000,3
+2022,Duke Energy,RGA,220900,8
+2022,Dominion Energy,RSLC,205500,4
+2022,Berkshire Hathaway Energy,RGA,200450,5
+2022,Alliant Energy,DGA,200000,2
+2022,Public Service Enterprise Group,DGA,200000,1
+2022,Xcel Energy,DGA,192000,5
+2022,NRG Energy,DGA,160000,5
+2022,NRG Energy,RGA,160000,3
+2022,Southern Company,RGA,155450,3
+2022,Dominion Energy,DGA,155000,2
+2022,Duke Energy,DLCC,150000,1
+2022,Southern Company,DGA,150000,1
+2022,Xcel Energy,RGA,150000,2
+2022,Duke Energy,DGA,135000,2
+2022,Vistra Energy,DGA,130000,3
+2022,Alliant Energy,RGA,125450,3
+2022,Southern Company,RAGA,125000,2
+2022,Avangrid,RSLC,105000,2
+2022,Edison Electric Institute,DGA,105000,2
+2022,Edison Electric Institute,RGA,101350,4
+2022,NextEra,DAGA,101000,3
+2022,Vistra Energy,RGA,100450,2
+2022,Berkshire Hathaway Energy,RSLC,100000,1
+2022,Dominion Energy,DLCC,100000,1
+2022,OGE Energy Corp,RGA,100000,2
+2022,Southern Company,DAGA,100000,2
+2022,Xcel Energy,GOPAC,100000,1
+2022,Vistra Energy,RSLC,95000,6
+2022,NextEra,DLCC,85000,2
+2022,NRG Energy,DAGA,83394,3
+2022,Avangrid,DGA,80000,4
+2022,Nuclear Energy Institute,RGA,75450,3
+2022,Nuclear Energy Institute,DGA,75000,1
+2022,Fortis,RGA,70450,4
+2022,Berkshire Hathaway Energy,DAGA,65000,3
+2022,Duquesne Light Company,RSLC,65000,3
+2022,Avangrid,DLCC,60000,3
+2022,Pinnacle West Capital,DGA,60000,2
+2022,Vistra Energy,DLCC,60000,4
+2022,American Gas Association,RAGA,56465,6
+2022,Nuclear Energy Institute,RSLC,55000,2
+2022,Spire,RGA,55000,2
+2022,Alliant Energy,DLCC,50000,1
+2022,CMS Energy,DGA,50000,2
+2022,Dominion Energy,GOPAC,50000,3
+2022,Essential Utilities,DGA,50000,1
+2022,Fortis,DGA,50000,1
+2022,NextEra,GOPAC,50000,1
+2022,Nuclear Energy Institute,DLCC,50000,1
+2022,OGE Energy Corp,RAGA,50000,1
+2022,Pinnacle West Capital,GOPAC,50000,1
+2022,Salt River Project,RGA,50000,2
+2022,Vistra Energy,DAGA,50000,2
+2022,Xcel Energy,RSLC,50000,2
+2022,American Electric Power,RSLC,45000,3
+2022,Avangrid,DAGA,41000,2
+2022,Calpine,RSLC,40000,2
+2022,CenterPoint Energy,RSLC,40000,2
+2022,Duke Energy,RAGA,40000,2
+2022,American Gas Association,RSLC,35000,3
+2022,Edison Electric Institute,RSLC,35000,2
+2022,Fortis,RSLC,35000,2
+2022,Calpine,DGA,32400,1
+2022,Xcel Energy,DLCC,30000,2
+2022,Southern Company,RSLC,26000,2
+2022,American Gas Association,DLCC,25750,4
+2022,Edison Electric Institute,DLCC,25500,3
+2022,Avangrid,RGA,25450,2
+2022,American Electric Power,RAGA,25000,1
+2022,American Gas Association,DGA,25000,1
+2022,CMS Energy,RSLC,25000,1
+2022,CenterPoint Energy,RGA,25000,1
+2022,DTE Energy,DGA,25000,1
+2022,Edison Electric Institute,DAGA,25000,1
+2022,Edison Electric Institute,GOPAC,25000,1
+2022,Fortis,DLCC,25000,1
+2022,Fortis,GOPAC,25000,1
+2022,NRG Energy,DLCC,25000,1
+2022,NRG Energy,RSLC,25000,1
+2022,Nuclear Energy Institute,DAGA,25000,1
+2022,Nuclear Energy Institute,RAGA,25000,1
+2022,South Jersey Gas,DGA,25000,1
+2022,Vistra Energy,RAGA,25000,1
+2022,American Gas Association,RGA,20000,1
+2022,Calpine,GOPAC,20000,1
+2022,Puget Sound Energy,RSLC,20000,2
+2022,American Gas Association,DAGA,15000,1
+2022,Emera,RAGA,15000,1
+2022,Southwest Gas,GOPAC,15000,2
+2022,Enbridge,DGA,12500,2
+2022,PPL Corporation,RAGA,11000,3
+2022,Southwest Gas,RGA,10900,3
+2022,AES Corporation,DGA,10000,1
+2022,Alliant Energy,RSLC,10000,1
+2022,American Electric Power,GOPAC,10000,1
+2022,Consolidated Edison,DGA,10000,1
+2022,NextEra,RAGA,10000,1
+2022,NiSource,DGA,10000,1
+2022,TXNM Energy,DLCC,10000,1
+2022,Evergy,RGA,8000,1
+2022,Evergy,RAGA,5000,1
+2022,Southwest Gas,RSLC,5000,1
+2022,UGI Corp,DGA,5000,1
+2022,Northwestern Energy,RGA,2000,1
+2021,Dominion Energy,RSLC,570000,6
+2021,Dominion Energy,DLCC,375000,3
+2021,Dominion Energy,RGA,260000,4
+2021,Southern Company,RGA,250450,3
+2021,Dominion Energy,DAGA,250000,3
+2021,Dominion Energy,DGA,250000,2
+2021,PG&E Corp,DGA,250000,1
+2021,Duke Energy,DGA,225000,2
+2021,Southern Company,DGA,200000,2
+2021,Duke Energy,GOPAC,165000,3
+2021,Alliant Energy,RSLC,150000,2
+2021,Duke Energy,RSLC,150000,1
+2021,Berkshire Hathaway Energy,RGA,140000,3
+2021,Duke Energy,RGA,135000,4
+2021,PG&E Corp,DLCC,125000,2
+2021,Vistra Energy,DGA,125000,2
+2021,Vistra Energy,RSLC,125000,5
+2021,Xcel Energy,DGA,125000,2
+2021,Nuclear Energy Institute,RSLC,120000,5
+2021,Southern Company,RAGA,117850,3
+2021,Pinnacle West Capital,RGA,101350,5
+2021,Edison Electric Institute,RGA,100450,2
+2021,NRG Energy,RGA,100450,3
+2021,Calpine,DGA,100000,1
+2021,Duke Energy,DLCC,100000,1
+2021,Edison Electric Institute,DGA,100000,1
+2021,Exelon,DGA,100000,1
+2021,Public Service Enterprise Group,DGA,100000,1
+2021,Vistra Energy,RGA,100000,1
+2021,Xcel Energy,RGA,100000,1
+2021,NRG Energy,DGA,85000,3
+2021,Xcel Energy,GOPAC,80000,2
+2021,Nuclear Energy Institute,RGA,75450,3
+2021,American Electric Power,DGA,75000,1
+2021,Nuclear Energy Institute,DGA,75000,1
+2021,Xcel Energy,RSLC,75000,3
+2021,Fortis,RSLC,70000,4
+2021,NRG Energy,DAGA,65000,2
+2021,NextEra,DGA,65000,3
+2021,American Gas Association,DGA,62500,3
+2021,Fortis,RGA,50450,2
+2021,Alliant Energy,DAGA,50000,1
+2021,CenterPoint Energy,DAGA,50000,2
+2021,Essential Utilities,DGA,50000,1
+2021,NextEra,GOPAC,50000,1
+2021,Nuclear Energy Institute,DLCC,50000,1
+2021,ONE Gas,RGA,50000,1
+2021,Public Service Enterprise Group,DLCC,50000,1
+2021,Public Service Enterprise Group,RGA,50000,1
+2021,Spire,RGA,50000,1
+2021,Vistra Energy,DLCC,50000,2
+2021,Xcel Energy,DLCC,50000,2
+2021,CenterPoint Energy,RAGA,40000,2
+2021,CenterPoint Energy,RSLC,40000,2
+2021,American Electric Power,RSLC,35000,2
+2021,Edison Electric Institute,RSLC,35000,2
+2021,Calpine,RSLC,30000,1
+2021,Duquesne Light Company,DLCC,30000,2
+2021,Public Service Enterprise Group,RSLC,30000,2
+2021,Emera,RSLC,26500,2
+2021,Alliant Energy,RGA,25450,2
+2021,American Electric Power,RAGA,25400,2
+2021,American Gas Association,DLCC,25250,3
+2021,Edison Electric Institute,DLCC,25250,2
+2021,American Electric Power,DAGA,25000,1
+2021,American Gas Association,RSLC,25000,1
+2021,Avangrid,DGA,25000,1
+2021,Berkshire Hathaway Energy,DAGA,25000,1
+2021,CMS Energy,DGA,25000,1
+2021,CenterPoint Energy,RGA,25000,1
+2021,Edison Electric Institute,DAGA,25000,1
+2021,Fortis,DLCC,25000,1
+2021,Fortis,GOPAC,25000,1
+2021,NRG Energy,DLCC,25000,1
+2021,NRG Energy,RSLC,25000,1
+2021,NiSource,DGA,25000,1
+2021,Sempra Energy,DGA,25000,1
+2021,Southern Company,DAGA,25000,1
+2021,Southern Company,RSLC,25000,1
+2021,Vistra Energy,RAGA,25000,1
+2021,American Gas Association,RGA,20450,2
+2021,Nuclear Energy Institute,RAGA,20000,1
+2021,NextEra,RGA,17587,2
+2021,American Gas Association,RAGA,15400,2
+2021,American Gas Association,DAGA,15000,1
+2021,American Gas Association,GOPAC,15000,1
+2021,CMS Energy,DAGA,15000,1
+2021,DTE Energy,DAGA,15000,1
+2021,Duke Energy,RAGA,15000,1
+2021,Enbridge,RAGA,15000,1
+2021,Nuclear Energy Institute,GOPAC,15000,1
+2021,Pinnacle West Capital,RSLC,15000,1
+2021,PPL Corporation,RAGA,10350,2
+2021,Puget Sound Energy,DLCC,10250,2
+2021,American Electric Power,GOPAC,10000,1
+2021,Atmos Energy,RGA,10000,1
+2021,Calpine,GOPAC,10000,1
+2021,Puget Sound Energy,DGA,10000,1
+2021,TXNM Energy,DGA,10000,1
+2021,NextEra,RSLC,5000,1
+2021,Alta Gas,DAGA,2500,1
+2021,MDU Resources,RGA,1000,1
+2021,Salt River Project,RGA,450,1
+2020,NextEra,DGA,550000,3
+2020,NextEra,RGA,500000,2
+2020,NextEra,RSLC,300000,4
+2020,American Electric Power,RGA,250000,1
+2020,Alliant Energy,DGA,225000,3
+2020,Dominion Energy,DGA,210000,4
+2020,Alliant Energy,RGA,200000,2
+2020,Dominion Energy,RSLC,180000,5
+2020,Duke Energy,RGA,175000,2
+2020,NextEra,RAGA,175000,3
+2020,Duke Energy,DGA,150000,1
+2020,Alliant Energy,RSLC,125000,2
+2020,Vistra Energy,RGA,125000,2
+2020,Edison Electric Institute,DGA,110000,1
+2020,NextEra,DLCC,110000,2
+2020,American Electric Power,DGA,100000,1
+2020,Dominion Energy,DLCC,100000,1
+2020,Dominion Energy,RGA,100000,2
+2020,Edison Electric Institute,RGA,100000,1
+2020,Entergy,RAGA,100000,1
+2020,NextEra,DAGA,100000,2
+2020,NextEra,GOPAC,100000,2
+2020,Southern Company,RGA,100000,1
+2020,Vistra Energy,DGA,100000,1
+2020,Xcel Energy,DGA,100000,1
+2020,Xcel Energy,RGA,100000,1
+2020,Southern Company,DGA,90000,2
+2020,Vistra Energy,RSLC,80000,3
+2020,Nuclear Energy Institute,DGA,75000,1
+2020,Nuclear Energy Institute,RGA,75000,1
+2020,Public Service Enterprise Group,DGA,75000,1
+2020,Public Service Enterprise Group,RGA,75000,1
+2020,Vistra Energy,DAGA,75000,3
+2020,Southern Company,RAGA,67500,2
+2020,Fortis,DGA,60000,2
+2020,Sempra Energy,RGA,60000,2
+2020,Fortis,GOPAC,55000,2
+2020,Nuclear Energy Institute,RSLC,55000,2
+2020,Vistra Energy,DLCC,55000,3
+2020,Alliant Energy,DAGA,50000,1
+2020,Alliant Energy,DLCC,50000,1
+2020,Dominion Energy,DAGA,50000,1
+2020,Dominion Energy,RAGA,50000,1
+2020,Fortis,RGA,50000,1
+2020,NRG Energy,DGA,50000,1
+2020,NRG Energy,RGA,50000,1
+2020,Nuclear Energy Institute,DLCC,50000,1
+2020,ONE Gas,RGA,50000,1
+2020,Pinnacle West Capital,DLCC,50000,1
+2020,Pinnacle West Capital,RGA,50000,1
+2020,Spire,RGA,50000,1
+2020,Salt River Project,RGA,47500,2
+2020,Puget Sound Energy,GOPAC,45000,2
+2020,American Gas Association,RAGA,40000,1
+2020,CenterPoint Energy,RSLC,40000,2
+2020,Duke Energy,GOPAC,40000,3
+2020,Fortis,RSLC,35000,2
+2020,Xcel Energy,GOPAC,30000,1
+2020,Southern Company,RSLC,27500,3
+2020,Enbridge,RAGA,25800,3
+2020,American Electric Power,DAGA,25000,1
+2020,American Electric Power,RAGA,25000,1
+2020,American Gas Association,DGA,25000,1
+2020,CMS Energy,DGA,25000,1
+2020,CenterPoint Energy,DAGA,25000,1
+2020,CenterPoint Energy,RAGA,25000,1
+2020,CenterPoint Energy,RGA,25000,1
+2020,DTE Energy,DGA,25000,1
+2020,Duke Energy,RAGA,25000,2
+2020,Edison Electric Institute,DAGA,25000,1
+2020,Edison Electric Institute,DLCC,25000,1
+2020,Edison Electric Institute,RAGA,25000,1
+2020,Edison Electric Institute,RSLC,25000,1
+2020,FirstEnergy,RGA,25000,1
+2020,Fortis,DLCC,25000,1
+2020,NRG Energy,RAGA,25000,1
+2020,Southern Company,DAGA,25000,1
+2020,Vistra Energy,RAGA,25000,1
+2020,Xcel Energy,DLCC,25000,1
+2020,Xcel Energy,RSLC,25000,1
+2020,American Gas Association,RGA,20000,1
+2020,DTE Energy,RAGA,15350,2
+2020,Alta Gas,DAGA,15000,1
+2020,American Gas Association,GOPAC,15000,1
+2020,DTE Energy,DAGA,15000,1
+2020,DTE Energy,GOPAC,15000,1
+2020,NRG Energy,DAGA,15000,1
+2020,Pinnacle West Capital,RAGA,15000,1
+2020,American Electric Power,GOPAC,10000,1
+2020,Calpine,GOPAC,10000,1
+2020,Calpine,RSLC,10000,1
+2020,DTE Energy,RGA,10000,1
+2020,Enbridge,RSLC,10000,1
+2020,Puget Sound Energy,RSLC,10000,1
+2020,Salt River Project,RAGA,5000,1
+2020,Northwestern Energy,RGA,2500,1
+2020,PPL Corporation,RAGA,750,1
+2019,Dominion Energy,RSLC,660549,11
+2019,Dominion Energy,DLCC,427500,7
+2019,NextEra,RGA,390573,5
+2019,NextEra,DGA,312500,4
+2019,American Electric Power,RGA,250000,1
+2019,Public Service Enterprise Group,DGA,200000,1
+2019,Dominion Energy,DGA,175000,4
+2019,NextEra,RSLC,175000,2
+2019,FirstEnergy,RGA,150000,3
+2019,Pinnacle West Capital,RGA,150000,1
+2019,Southern Company,RGA,150000,2
+2019,Alliant Energy,RSLC,125649,6
+2019,Entergy,RAGA,125000,1
+2019,Exelon,DGA,125000,2
+2019,Edison Electric Institute,DGA,110000,2
+2019,Alliant Energy,RGA,100450,3
+2019,Edison Electric Institute,RGA,100450,2
+2019,American Electric Power,DGA,100000,1
+2019,FirstEnergy,DGA,100000,1
+2019,NextEra,DAGA,100000,2
+2019,Xcel Energy,DGA,100000,1
+2019,Xcel Energy,RGA,100000,1
+2019,Vistra Energy,DLCC,96500,12
+2019,Southern Company,RAGA,76315,7
+2019,Nuclear Energy Institute,RGA,75450,2
+2019,Duke Energy,DGA,75000,2
+2019,NextEra,RAGA,75000,1
+2019,Nuclear Energy Institute,DGA,75000,1
+2019,Berkshire Hathaway Energy,DGA,68000,4
+2019,Vistra Energy,RSLC,64908,6
+2019,Vistra Energy,RGA,60900,5
+2019,Fortis,DGA,60000,2
+2019,Southern Company,DGA,60000,2
+2019,Nuclear Energy Institute,RSLC,55593,4
+2019,Fortis,RGA,55450,3
+2019,Nuclear Energy Institute,DLCC,55000,2
+2019,Edison Electric Institute,RAGA,50625,3
+2019,Dominion Energy,RGA,50450,2
+2019,Spire,RGA,50450,3
+2019,Vistra Energy,RAGA,50300,3
+2019,Edison Electric Institute,RSLC,50294,3
+2019,Alliant Energy,DGA,50000,1
+2019,CenterPoint Energy,RAGA,50000,3
+2019,Eversource,DGA,50000,1
+2019,Eversource,RGA,50000,2
+2019,NRG Energy,DGA,50000,2
+2019,NRG Energy,RGA,50000,1
+2019,ONE Gas,RGA,50000,1
+2019,Public Service Enterprise Group,RGA,50000,1
+2019,Sempra Energy,RGA,50000,2
+2019,Vistra Energy,DGA,50000,1
+2019,CenterPoint Energy,RSLC,40500,3
+2019,American Electric Power,RSLC,40000,1
+2019,Duke Energy,GOPAC,40000,3
+2019,NextEra,DLCC,35600,3
+2019,Duke Energy,RGA,35000,2
+2019,Alliant Energy,DLCC,30500,4
+2019,Nuclear Energy Institute,DAGA,30000,2
+2019,Southern Company,DAGA,28410,2
+2019,Fortis,GOPAC,27500,2
+2019,Fortis,RSLC,27146,6
+2019,Edison Electric Institute,DLCC,26952,4
+2019,Xcel Energy,RSLC,25558,2
+2019,Xcel Energy,DLCC,25500,3
+2019,Sempra Energy,DGA,25350,3
+2019,Alliant Energy,DAGA,25000,1
+2019,Alta Gas,DAGA,25000,1
+2019,CMS Energy,DGA,25000,1
+2019,CenterPoint Energy,RGA,25000,1
+2019,Edison Electric Institute,DAGA,25000,1
+2019,Enbridge,RAGA,25000,1
+2019,Entergy,DGA,25000,1
+2019,Entergy,RGA,25000,1
+2019,PPL Corporation,RAGA,25000,1
+2019,Sempra Energy,RAGA,25000,1
+2019,TXNM Energy,DLCC,25000,1
+2019,American Gas Association,DGA,20700,3
+2019,American Gas Association,GOPAC,20000,2
+2019,American Gas Association,RGA,20000,1
+2019,DTE Energy,RAGA,15550,2
+2019,NRG Energy,RAGA,15425,2
+2019,Duke Energy,RSLC,15395,2
+2019,American Gas Association,RAGA,15350,2
+2019,Berkshire Hathaway Energy,DAGA,15000,1
+2019,Calpine,GOPAC,15000,2
+2019,DTE Energy,GOPAC,15000,1
+2019,NRG Energy,DAGA,15000,1
+2019,Nuclear Energy Institute,GOPAC,15000,1
+2019,Nuclear Energy Institute,RAGA,15000,1
+2019,Salt River Project,RGA,15000,1
+2019,Berkshire Hathaway Energy,RGA,12500,1
+2019,Southern Company,RSLC,12500,1
+2019,DTE Energy,DLCC,10250,2
+2019,Spire,RSLC,10199,2
+2019,American Electric Power,GOPAC,10000,1
+2019,Emera,DGA,10000,1
+2019,Emera,RGA,10000,1
+2019,Emera,RSLC,10000,1
+2019,Exelon,RSLC,10000,1
+2019,NiSource,RGA,10000,1
+2019,Northwestern Energy,RGA,10000,1
+2019,Puget Sound Energy,RSLC,10000,1
+2019,Xcel Energy,GOPAC,10000,1
+2019,Duke Energy,RAGA,5425,2
+2019,Allete,DGA,5000,1
+2019,Ameren,RGA,5000,1
+2019,Ameren,RSLC,5000,1
+2019,CenterPoint Energy,DGA,5000,1
+2019,Edison International,DLCC,5000,1
+2019,Exelon,DLCC,2500,1
+2019,Fortis,DLCC,1000,4
+2019,Pinnacle West Capital,RAGA,700,2
+2018,NextEra,RGA,1200000,3
+2018,NextEra,DGA,545000,6
+2018,FirstEnergy,RGA,530000,3
+2018,NextEra,RAGA,475255,5
+2018,FirstEnergy,DGA,350000,3
+2018,Berkshire Hathaway Energy,RGA,200000,4
+2018,NextEra,RSLC,177145,8
+2018,Duke Energy,RGA,170000,5
+2018,Duke Energy,DGA,160000,2
+2018,NextEra,DAGA,150000,3
+2018,Pinnacle West Capital,RAGA,150000,2
+2018,Entergy,RAGA,125000,1
+2018,Southern Company,RAGA,115000,5
+2018,Public Service Enterprise Group,DGA,110000,2
+2018,Xcel Energy,RGA,110000,2
+2018,Alliant Energy,RSLC,106372,10
+2018,Southern Company,DGA,102200,4
+2018,Southern Company,RGA,101110,3
+2018,Edison Electric Institute,DGA,101100,3
+2018,Edison Electric Institute,RGA,100900,3
+2018,Alliant Energy,RGA,100450,5
+2018,Dominion Energy,DGA,100350,4
+2018,American Electric Power,RGA,100000,2
+2018,Eversource,DGA,100000,1
+2018,Exelon,DGA,100000,1
+2018,Xcel Energy,DGA,100000,1
+2018,Nuclear Energy Institute,DGA,85000,2
+2018,Dominion Energy,RGA,75000,2
+2018,Nuclear Energy Institute,RGA,75000,1
+2018,Pinnacle West Capital,RGA,75000,2
+2018,Vistra Energy,RGA,75000,2
+2018,American Electric Power,DGA,60000,2
+2018,Nuclear Energy Institute,DLCC,60000,2
+2018,NRG Energy,RGA,50900,3
+2018,Spire,RGA,50900,4
+2018,Fortis,DGA,50700,4
+2018,Alliant Energy,DGA,50350,2
+2018,DTE Energy,RGA,50000,1
+2018,Dominion Energy,RSLC,50000,2
+2018,Edison Electric Institute,RAGA,50000,1
+2018,Edison Electric Institute,RSLC,50000,1
+2018,Nuclear Energy Institute,RSLC,50000,1
+2018,Southern Company,RSLC,49163,7
+2018,Alliant Energy,DLCC,45350,3
+2018,CenterPoint Energy,RGA,40450,5
+2018,CenterPoint Energy,RSLC,40399,3
+2018,Vistra Energy,DLCC,37250,8
+2018,Vistra Energy,RSLC,36186,6
+2018,Duke Energy,GOPAC,30000,2
+2018,Edison Electric Institute,DLCC,26000,5
+2018,Fortis,RSLC,25718,2
+2018,Fortis,DLCC,25500,3
+2018,Vistra Energy,RAGA,25500,2
+2018,Salt River Project,RGA,25450,3
+2018,Xcel Energy,RSLC,25398,4
+2018,Xcel Energy,DLCC,25250,3
+2018,AES Corporation,RGA,25000,1
+2018,Avangrid,DGA,25000,1
+2018,CenterPoint Energy,RAGA,25000,1
+2018,Edison Electric Institute,DAGA,25000,1
+2018,Eversource,RGA,25000,1
+2018,FirstEnergy,RAGA,25000,1
+2018,Fortis,GOPAC,25000,1
+2018,NRG Energy,DGA,25000,1
+2018,NextEra,DLCC,25000,1
+2018,Nuclear Energy Institute,RAGA,25000,1
+2018,TXNM Energy,RGA,25000,3
+2018,Vistra Energy,DGA,25000,1
+2018,American Gas Association,DGA,20350,2
+2018,Alliant Energy,DAGA,20000,2
+2018,American Gas Association,RGA,20000,1
+2018,American Gas Association,RAGA,15350,2
+2018,Alliant Energy,RAGA,15000,1
+2018,Enbridge,RGA,15000,1
+2018,Enbridge,RSLC,15000,1
+2018,Southern Company,DAGA,15000,1
+2018,Southern Company,DLCC,12000,1
+2018,Southwest Gas,RGA,10900,2
+2018,Entergy,RGA,10450,2
+2018,Alta Gas,DGA,10000,1
+2018,American Electric Power,GOPAC,10000,2
+2018,American Electric Power,RSLC,10000,1
+2018,American Gas Association,GOPAC,10000,1
+2018,Dominion Energy,GOPAC,10000,1
+2018,Puget Sound Energy,DGA,10000,1
+2018,Puget Sound Energy,RSLC,10000,1
+2018,Southwest Gas,RAGA,10000,1
+2018,UGI Corp,DGA,10000,1
+2018,Xcel Energy,GOPAC,7500,1
+2018,Berkshire Hathaway Energy,RSLC,5000,1
+2018,Duke Energy,RAGA,5000,1
+2018,Enbridge,DLCC,5000,1
+2018,Fortis,RGA,5000,1
+2018,Ameren,RSLC,2500,1
+2018,Atmos Energy,RGA,2500,1
+2018,Southwest Gas,DLCC,2500,1
+2018,Spire,RSLC,2500,1
+2018,Duquesne Light Company,RSLC,2000,1
+2018,Black Hills Corporation,DGA,1150,1
+2018,Berkshire Hathaway Energy,DGA,350,1
+2018,Duke Energy,RSLC,319,1
+2018,TXNM Energy,DLCC,250,1
+2017,NextEra,RGA,316639,8
+2017,Public Service Enterprise Group,DGA,187500,4
+2017,Edison Electric Institute,RGA,166174,3
+2017,Duke Energy,RGA,125000,2
+2017,NextEra,RSLC,121507,5
+2017,Public Service Enterprise Group,RGA,115000,4
+2017,Fortis,RGA,106800,6
+2017,Southern Company,RGA,105769,2
+2017,Eversource,DGA,105000,2
+2017,Nuclear Energy Institute,DGA,102337,2
+2017,Xcel Energy,RGA,101350,4
+2017,Berkshire Hathaway Energy,RGA,100450,4
+2017,Eversource,RGA,100450,3
+2017,Nuclear Energy Institute,RGA,100450,2
+2017,American Electric Power,RGA,100000,2
+2017,DTE Energy,RGA,100000,2
+2017,Essential Utilities,DGA,100000,1
+2017,Pinnacle West Capital,RGA,100000,2
+2017,Southern Company,DGA,100000,2
+2017,Xcel Energy,DGA,100000,2
+2017,Southern Company,RAGA,90250,4
+2017,Dominion Energy,RSLC,80325,6
+2017,Alliant Energy,RSLC,75389,3
+2017,Dominion Energy,DGA,75000,2
+2017,Edison Electric Institute,DGA,71927,4
+2017,Dominion Energy,RGA,60450,3
+2017,Nuclear Energy Institute,DLCC,56500,3
+2017,Nuclear Energy Institute,RSLC,50790,4
+2017,NextEra,RAGA,50600,3
+2017,Pinnacle West Capital,RAGA,50350,2
+2017,Atmos Energy,RGA,50000,1
+2017,DTE Energy,RAGA,50000,2
+2017,Edison Electric Institute,RAGA,50000,1
+2017,Exelon,DGA,50000,1
+2017,Alliant Energy,RGA,45450,4
+2017,NextEra,DGA,45000,3
+2017,Berkshire Hathaway Energy,RAGA,40000,3
+2017,FirstEnergy,RGA,40000,2
+2017,Atmos Energy,RSLC,35000,2
+2017,Exelon,RSLC,35000,3
+2017,American Gas Association,DGA,30700,4
+2017,American Gas Association,RGA,30450,3
+2017,Edison Electric Institute,DLCC,30000,2
+2017,FirstEnergy,RSLC,30000,1
+2017,Puget Sound Energy,RSLC,30000,1
+2017,Xcel Energy,DLCC,30000,3
+2017,Fortis,RSLC,26318,3
+2017,NRG Energy,RGA,25900,4
+2017,NextEra,DAGA,25450,4
+2017,Xcel Energy,RSLC,25279,4
+2017,AES Corporation,DGA,25000,1
+2017,Ameren,RGA,25000,2
+2017,American Gas Association,GOPAC,25000,3
+2017,Black Hills Corporation,RGA,25000,1
+2017,Duke Energy,DGA,25000,1
+2017,Duke Energy,GOPAC,25000,1
+2017,Edison Electric Institute,DAGA,25000,1
+2017,Edison Electric Institute,RSLC,25000,1
+2017,FirstEnergy,RAGA,25000,1
+2017,Fortis,DLCC,25000,1
+2017,Fortis,GOPAC,25000,1
+2017,NextEra,DLCC,25000,1
+2017,Public Service Enterprise Group,RSLC,25000,1
+2017,Nuclear Energy Institute,RAGA,20000,1
+2017,TXNM Energy,RGA,20000,2
+2017,Alliant Energy,RAGA,15875,3
+2017,Nuclear Energy Institute,DAGA,15150,2
+2017,Alliant Energy,DAGA,15000,1
+2017,American Electric Power,RAGA,15000,1
+2017,American Gas Association,RAGA,15000,1
+2017,CenterPoint Energy,RAGA,15000,1
+2017,Dominion Energy,DAGA,15000,1
+2017,Salt River Project,RGA,15000,2
+2017,Vistra Energy,RAGA,15000,1
+2017,Vistra Energy,RSLC,12100,2
+2017,CenterPoint Energy,RSLC,12000,1
+2017,TXNM Energy,DLCC,12000,2
+2017,Vistra Energy,DGA,10350,2
+2017,Alta Gas,RGA,10000,1
+2017,CenterPoint Energy,RGA,10000,2
+2017,Cleco Corporate,DGA,10000,1
+2017,Entergy,DGA,10000,1
+2017,Entergy,RGA,10000,1
+2017,FirstEnergy,GOPAC,10000,1
+2017,Puget Sound Energy,DGA,10000,1
+2017,Sempra Energy,RGA,10000,1
+2017,Avangrid,RGA,5000,1
+2017,DTE Energy,DLCC,5000,1
+2017,Emera,RGA,5000,1
+2017,PG&E Corp,DGA,5000,1
+2017,PG&E Corp,RGA,5000,1
+2017,Pinnacle West Capital,RSLC,5000,1
+2017,American Electric Power,RSLC,2500,1
+2017,CMS Energy,DLCC,2500,1
+2017,FirstEnergy,DGA,2500,1
+2017,Spire,DGA,1700,1
+2017,Southern Company,RSLC,1500,1
+2017,Northwestern Energy,RGA,1000,1
+2017,AES Corporation,RGA,450,1
+2017,NRG Energy,DGA,350,1
+2016,Duke Energy,RGA,330000,4
+2016,NextEra,RGA,253250,3
+2016,Duke Energy,DGA,250000,1
+2016,Southern Company,RGA,153529,3
+2016,NextEra,RSLC,128735,8
+2016,Eversource,DGA,123077,4
+2016,Edison Electric Institute,DGA,115000,3
+2016,Nuclear Energy Institute,DGA,110000,2
+2016,Fortis,RGA,100900,2
+2016,Alliant Energy,RGA,100450,2
+2016,Nuclear Energy Institute,RGA,100450,2
+2016,Xcel Energy,RGA,100450,2
+2016,Edison Electric Institute,RGA,100000,2
+2016,Exelon,DGA,100000,1
+2016,Xcel Energy,DGA,100000,1
+2016,Alliant Energy,RSLC,95000,2
+2016,Southern Company,RAGA,85400,3
+2016,Southern Company,DGA,85000,2
+2016,Pinnacle West Capital,RGA,75000,2
+2016,Nuclear Energy Institute,RSLC,70400,4
+2016,Dominion Energy,RGA,60450,3
+2016,Dominion Energy,DGA,60000,1
+2016,Nuclear Energy Institute,DLCC,60000,2
+2016,Southern Company,RSLC,56620,9
+2016,NextEra,RAGA,51000,4
+2016,DTE Energy,RGA,50000,1
+2016,Duke Energy,GOPAC,50000,4
+2016,Entergy,DGA,50000,1
+2016,Entergy,RGA,50000,1
+2016,FirstEnergy,DGA,50000,1
+2016,CenterPoint Energy,RSLC,47000,3
+2016,American Electric Power,RGA,45000,2
+2016,Edison Electric Institute,RSLC,45000,2
+2016,Eversource,RGA,40000,1
+2016,Puget Sound Energy,DGA,37500,3
+2016,American Gas Association,RGA,36500,3
+2016,Atmos Energy,RSLC,35470,3
+2016,Dominion Energy,RSLC,35325,3
+2016,CenterPoint Energy,RGA,35000,2
+2016,American Gas Association,DGA,30350,3
+2016,American Electric Power,DGA,30000,2
+2016,FirstEnergy,RSLC,30000,1
+2016,Southern Company,DAGA,30000,2
+2016,NRG Energy,RGA,26350,6
+2016,Fortis,RSLC,26000,2
+2016,AES Corporation,RGA,25450,2
+2016,Dominion Energy,DLCC,25400,2
+2016,AES Corporation,DGA,25350,2
+2016,Edison Electric Institute,RAGA,25350,2
+2016,Fortis,DLCC,25285,3
+2016,Alliant Energy,DLCC,25000,1
+2016,American Gas Association,GOPAC,25000,3
+2016,Berkshire Hathaway Energy,RAGA,25000,1
+2016,CMS Energy,RSLC,25000,2
+2016,CenterPoint Energy,RAGA,25000,1
+2016,DTE Energy,RAGA,25000,1
+2016,Dominion Energy,GOPAC,25000,1
+2016,Edison Electric Institute,DAGA,25000,1
+2016,Exelon,RSLC,25000,1
+2016,FirstEnergy,RGA,25000,1
+2016,Fortis,GOPAC,25000,1
+2016,Public Service Enterprise Group,RSLC,25000,1
+2016,TXNM Energy,RGA,25000,1
+2016,Southern Company,DLCC,22400,3
+2016,Berkshire Hathaway Energy,RSLC,20000,3
+2016,FirstEnergy,RAGA,20000,1
+2016,NRG Energy,DGA,20000,2
+2016,Nuclear Energy Institute,RAGA,20000,1
+2016,Public Service Enterprise Group,DGA,20000,2
+2016,American Gas Association,RAGA,15350,2
+2016,Alliant Energy,RAGA,15000,1
+2016,American Electric Power,GOPAC,15000,2
+2016,Berkshire Hathaway Energy,DLCC,15000,1
+2016,CMS Energy,RAGA,15000,1
+2016,Dominion Energy,DAGA,15000,1
+2016,Entergy,RAGA,15000,1
+2016,Nuclear Energy Institute,DAGA,15000,1
+2016,Sempra Energy,RAGA,10325,2
+2016,Alta Gas,RGA,10000,1
+2016,Evergy,RGA,10000,1
+2016,NRG Energy,RSLC,10000,1
+2016,Puget Sound Energy,RSLC,10000,1
+2016,Vistra Energy,RSLC,10000,1
+2016,Xcel Energy,RAGA,10000,1
+2016,Sempra Energy,RSLC,7500,2
+2016,Salt River Project,RAGA,5000,1
+2016,Calpine,RSLC,4000,1
+2016,PPL Corporation,DLCC,2500,1
+2016,FirstEnergy,GOPAC,1000,1
+2016,Duke Energy,RSLC,800,1
+2016,Xcel Energy,DLCC,585,3
+2016,WEC Energy,RSLC,235,1
+2016,Xcel Energy,RSLC,235,1
+2015,Duke Energy,DGA,225000,2
+2015,NextEra,RGA,215000,3
+2015,Alliant Energy,RGA,150450,3
+2015,Southern Company,RGA,150450,3
+2015,Xcel Energy,DGA,125000,3
+2015,Fortis,RGA,107700,4
+2015,Xcel Energy,RGA,101800,5
+2015,Nuclear Energy Institute,RGA,100900,4
+2015,Eversource,DGA,100000,2
+2015,Nuclear Energy Institute,DGA,100000,1
+2015,Nuclear Energy Institute,RSLC,65385,5
+2015,Entergy,RGA,65000,2
+2015,Dominion Energy,RGA,60000,2
+2015,Southern Company,RSLC,53085,5
+2015,NextEra,RAGA,51410,4
+2015,AES Corporation,RGA,50900,4
+2015,Edison Electric Institute,RGA,50450,2
+2015,Pinnacle West Capital,RGA,50450,2
+2015,Edison Electric Institute,DGA,50000,2
+2015,Entergy,DGA,50000,1
+2015,Exelon,DGA,50000,1
+2015,Nuclear Energy Institute,DLCC,50000,1
+2015,Southern Company,DGA,50000,1
+2015,NextEra,RSLC,48112,10
+2015,Dominion Energy,RSLC,46749,4
+2015,Edison Electric Institute,RAGA,35815,4
+2015,CenterPoint Energy,RGA,35450,4
+2015,Alliant Energy,RSLC,35150,3
+2015,Atmos Energy,RSLC,35000,3
+2015,Exelon,RGA,35000,2
+2015,Fortis,RSLC,35000,2
+2015,Southern Company,RAGA,35000,1
+2015,FirstEnergy,DGA,30000,1
+2015,Xcel Energy,RSLC,30000,2
+2015,National Rural Electric Cooperative Association,RSLC,27500,2
+2015,Berkshire Hathaway Energy,RAGA,26000,2
+2015,Edison Electric Institute,RSLC,25749,3
+2015,Nuclear Energy Institute,RAGA,25375,3
+2015,American Electric Power,RAGA,25000,2
+2015,Avangrid,DGA,25000,1
+2015,CMS Energy,RGA,25000,1
+2015,CenterPoint Energy,RAGA,25000,1
+2015,Exelon,RSLC,25000,1
+2015,FirstEnergy,RGA,25000,1
+2015,Fortis,DLCC,25000,1
+2015,Pinnacle West Capital,DAGA,25000,1
+2015,WEC Energy,RGA,25000,1
+2015,Xcel Energy,DLCC,25000,1
+2015,Edison Electric Institute,DLCC,22000,2
+2015,American Gas Association,DGA,20850,3
+2015,American Gas Association,RGA,20000,1
+2015,Dominion Energy,DAGA,20000,2
+2015,Duke Energy,RSLC,20000,1
+2015,Puget Sound Energy,RSLC,20000,1
+2015,CenterPoint Energy,RSLC,17000,2
+2015,American Gas Association,RAGA,16500,1
+2015,CMS Energy,RAGA,16191,2
+2015,Alliant Energy,RAGA,15700,3
+2015,American Gas Association,RSLC,15299,2
+2015,Berkshire Hathaway Energy,RSLC,15000,1
+2015,Duke Energy,DAGA,15000,1
+2015,Duke Energy,GOPAC,15000,2
+2015,Duke Energy,RAGA,15000,1
+2015,NextEra,DAGA,15000,1
+2015,CMS Energy,RSLC,12500,2
+2015,Dominion Energy,DLCC,12500,2
+2015,WEC Energy,RSLC,12000,1
+2015,Alliant Energy,DAGA,10000,1
+2015,American Electric Power,GOPAC,10000,1
+2015,American Gas Association,GOPAC,10000,1
+2015,Berkshire Hathaway Energy,RGA,10000,1
+2015,DTE Energy,DLCC,10000,1
+2015,Dominion Energy,DGA,10000,1
+2015,NRG Energy,RGA,10000,1
+2015,Pinnacle West Capital,GOPAC,10000,1
+2015,Public Service Enterprise Group,DGA,10000,1
+2015,Unitil,DGA,10000,1
+2015,CenterPoint Energy,DGA,5000,1
+2015,Fortis,GOPAC,2500,1
+2015,National Fuel,RSLC,2500,1
+2015,NiSource,RSLC,2500,1
+2015,PPL Corporation,DGA,2500,1
+2015,PPL Corporation,RSLC,2500,1
+2015,Southwest Gas,GOPAC,1000,1
+2015,Entergy,RSLC,399,1
+2015,NiSource,DGA,350,1
+2015,Pinnacle West Capital,RAGA,250,1
+2014,Duke Energy,RGA,3050000,4
+2014,NextEra,RGA,1979947,7
+2014,Pinnacle West Capital,RAGA,425000,2
+2014,FirstEnergy,RGA,350000,2
+2014,Southern Company,RGA,300450,5
+2014,Essential Utilities,RGA,250000,1
+2014,Exelon,DGA,225350,5
+2014,Duke Energy,DGA,200000,1
+2014,Fortis,RGA,151350,4
+2014,Alliant Energy,RGA,150450,5
+2014,American Electric Power,RGA,125000,2
+2014,Public Service Enterprise Group,RGA,125000,3
+2014,Southern Company,DGA,125000,3
+2014,Berkshire Hathaway Energy,RGA,110000,3
+2014,Edison Electric Institute,DGA,102869,5
+2014,Xcel Energy,RGA,100450,2
+2014,Dominion Energy,DGA,100000,3
+2014,FirstEnergy,DGA,100000,4
+2014,Xcel Energy,DGA,100000,1
+2014,Southern Company,RAGA,85000,2
+2014,Eversource,DGA,75000,2
+2014,Entergy,RGA,65000,2
+2014,Duke Energy,RSLC,60000,3
+2014,Nuclear Energy Institute,RSLC,55000,2
+2014,Southern Company,RSLC,52500,3
+2014,NextEra,RAGA,51145,4
+2014,Edison Electric Institute,RGA,50450,2
+2014,Nuclear Energy Institute,RGA,50450,2
+2014,AES Corporation,DGA,50350,4
+2014,CMS Energy,RGA,50000,2
+2014,DTE Energy,RGA,50000,1
+2014,DTE Energy,RSLC,50000,1
+2014,Entergy,DGA,50000,1
+2014,Nuclear Energy Institute,DGA,50000,1
+2014,Nuclear Energy Institute,DLCC,50000,1
+2014,Pinnacle West Capital,RGA,50000,1
+2014,Alliant Energy,RSLC,40295,3
+2014,NextEra,RSLC,36145,6
+2014,WEC Energy,RGA,35900,3
+2014,CenterPoint Energy,RGA,35450,4
+2014,Fortis,RSLC,35190,3
+2014,Alliant Energy,DLCC,30000,2
+2014,National Rural Electric Cooperative Association,DLCC,30000,2
+2014,Edison Electric Institute,DLCC,27250,3
+2014,Exelon,RGA,26350,4
+2014,AES Corporation,RGA,25900,3
+2014,Alta Gas,DGA,25350,2
+2014,American Electric Power,DGA,25000,1
+2014,Berkshire Hathaway Energy,DLCC,25000,1
+2014,CenterPoint Energy,RAGA,25000,1
+2014,DTE Energy,RAGA,25000,1
+2014,Dominion Energy,DLCC,25000,1
+2014,Dominion Energy,RSLC,25000,1
+2014,Duke Energy,GOPAC,25000,1
+2014,Edison Electric Institute,DAGA,25000,1
+2014,Edison Electric Institute,RAGA,25000,1
+2014,Edison Electric Institute,RSLC,25000,1
+2014,Exelon,RSLC,25000,1
+2014,FirstEnergy,RSLC,25000,1
+2014,IDACORP,RGA,25000,2
+2014,NRG Energy,DGA,25000,1
+2014,NRG Energy,RGA,25000,1
+2014,National Rural Electric Cooperative Association,RSLC,25000,1
+2014,PPL Corporation,RGA,25000,1
+2014,Public Service Enterprise Group,RSLC,25000,1
+2014,Puget Sound Energy,DGA,25000,1
+2014,American Gas Association,DGA,20700,3
+2014,American Gas Association,GOPAC,20000,2
+2014,American Gas Association,RGA,20000,1
+2014,NiSource,DGA,20000,1
+2014,WEC Energy,RSLC,17399,3
+2014,American Electric Power,RSLC,17000,2
+2014,American Gas Association,RAGA,15350,2
+2014,American Electric Power,RAGA,15000,1
+2014,American Gas Association,RSLC,15000,1
+2014,Berkshire Hathaway Energy,RSLC,15000,1
+2014,Dominion Energy,DAGA,15000,1
+2014,Duke Energy,DAGA,15000,1
+2014,Nuclear Energy Institute,RAGA,15000,1
+2014,Puget Sound Energy,RSLC,15000,1
+2014,Alliant Energy,DAGA,10000,1
+2014,Alliant Energy,RAGA,10000,1
+2014,Ameren,DGA,10000,2
+2014,Atmos Energy,RGA,10000,1
+2014,Avista Corporation,DGA,10000,1
+2014,CMS Energy,RAGA,10000,1
+2014,Dominion Energy,RGA,10000,1
+2014,National Grid,DAGA,10000,1
+2014,Nuclear Energy Institute,DAGA,10000,1
+2014,Unitil,DGA,10000,1
+2014,WEC Energy,DGA,10000,1
+2014,FirstEnergy,DLCC,5000,1
+2014,PPL Corporation,DGA,5000,1
+2014,Puget Sound Energy,DAGA,2500,1
+2014,UGI Corp,DGA,1500,1
+2014,Northwestern Energy,DGA,1000,1
+2014,Southwest Gas,RSLC,1000,1
+2013,NextEra,RGA,506128,2
+2013,Duke Energy,RGA,275000,2
+2013,Southern Company,DGA,227000,4
+2013,Duke Energy,DGA,200000,1
+2013,Exelon,DGA,185350,5
+2013,Southern Company,RGA,125000,2
+2013,NextEra,DGA,105000,2
+2013,Nuclear Energy Institute,DGA,105000,2
+2013,Southern Company,RSLC,102775,5
+2013,Xcel Energy,RGA,100900,3
+2013,Nuclear Energy Institute,RGA,100450,2
+2013,Essential Utilities,RGA,100000,1
+2013,FirstEnergy,DGA,100000,2
+2013,FirstEnergy,RGA,100000,2
+2013,Xcel Energy,DGA,100000,2
+2013,Eversource,DGA,80000,4
+2013,Edison Electric Institute,RSLC,75694,4
+2013,NextEra,RSLC,71139,6
+2013,NiSource,RGA,70900,3
+2013,Dominion Energy,RGA,60000,2
+2013,Nuclear Energy Institute,DLCC,60000,2
+2013,Nuclear Energy Institute,RSLC,60000,2
+2013,DTE Energy,RGA,50450,2
+2013,Fortis,RGA,50450,2
+2013,Pinnacle West Capital,RGA,50450,2
+2013,Alliant Energy,RGA,50000,1
+2013,Berkshire Hathaway Energy,DGA,50000,1
+2013,Berkshire Hathaway Energy,RGA,50000,4
+2013,Dominion Energy,DGA,50000,2
+2013,Duke Energy,RSLC,50000,2
+2013,Edison Electric Institute,DGA,40325,3
+2013,Dominion Energy,RSLC,35000,2
+2013,American Gas Association,RSLC,32270,8
+2013,Alliant Energy,RSLC,30350,3
+2013,AES Corporation,RGA,25900,3
+2013,Fortis,RSLC,25684,3
+2013,Edison Electric Institute,RGA,25450,2
+2013,Public Service Enterprise Group,RGA,25450,2
+2013,DTE Energy,RSLC,25400,2
+2013,AES Corporation,DGA,25000,1
+2013,Alta Gas,DGA,25000,1
+2013,Avista Corporation,DGA,25000,1
+2013,CMS Energy,RGA,25000,1
+2013,CenterPoint Energy,RGA,25000,1
+2013,Dominion Energy,DLCC,25000,2
+2013,Eversource,DAGA,25000,1
+2013,Exelon,RGA,25000,1
+2013,Exelon,RSLC,25000,1
+2013,NRG Energy,RGA,25000,1
+2013,PPL Corporation,RGA,25000,1
+2013,Public Service Enterprise Group,DGA,25000,2
+2013,Public Service Enterprise Group,RSLC,25000,1
+2013,Puget Sound Energy,DGA,25000,1
+2013,American Gas Association,RGA,20450,2
+2013,NRG Energy,DGA,20350,2
+2013,American Gas Association,DGA,20000,1
+2013,Dominion Energy,DAGA,20000,1
+2013,NiSource,DGA,20000,1
+2013,American Electric Power,DGA,15000,1
+2013,Edison Electric Institute,DAGA,15000,1
+2013,Southern Company,DAGA,15000,1
+2013,American Gas Association,GOPAC,14500,3
+2013,Xcel Energy,RSLC,12265,2
+2013,Alliant Energy,DAGA,10000,1
+2013,Alliant Energy,DLCC,10000,1
+2013,Ameren,DGA,10000,1
+2013,Black Hills Corporation,RGA,10000,1
+2013,CMS Energy,RSLC,10000,1
+2013,Duke Energy,DAGA,10000,2
+2013,Exelon,DLCC,10000,1
+2013,National Grid,DGA,10000,4
+2013,Puget Sound Energy,RSLC,10000,1
+2013,WEC Energy,DGA,10000,1
+2013,WEC Energy,RGA,10000,1
+2013,Southwest Gas,RGA,5000,1
+2013,WEC Energy,RSLC,5000,1
+2013,PPL Corporation,DLCC,2500,1
+2012,NextEra,RGA,300000,3
+2012,Southern Company,DGA,210000,3
+2012,Duke Energy,RGA,201350,5
+2012,Duke Energy,DGA,200000,1
+2012,Nuclear Energy Institute,DGA,182756,5
+2012,Exelon,DGA,160000,2
+2012,Duke Energy,RSLC,125000,2
+2012,Southern Company,RGA,102500,3
+2012,Nuclear Energy Institute,RGA,100450,2
+2012,American Electric Power,DGA,100000,3
+2012,Essential Utilities,RGA,100000,1
+2012,NextEra,DGA,100000,1
+2012,Nuclear Energy Institute,RSLC,85000,3
+2012,NextEra,RSLC,65215,4
+2012,Eversource,DGA,65000,2
+2012,Dominion Energy,RGA,60450,3
+2012,Edison Electric Institute,RSLC,56188,6
+2012,Dominion Energy,DGA,55350,3
+2012,American Electric Power,RGA,50450,2
+2012,Pinnacle West Capital,RGA,50450,2
+2012,Calpine,DGA,50000,1
+2012,Entergy,DGA,50000,1
+2012,Entergy,RGA,50000,1
+2012,National Grid,DGA,50000,1
+2012,Nuclear Energy Institute,DLCC,50000,1
+2012,Edison Electric Institute,DGA,40350,3
+2012,Berkshire Hathaway Energy,RGA,35450,3
+2012,Public Service Enterprise Group,RGA,35450,3
+2012,Alliant Energy,RSLC,35000,2
+2012,Dominion Energy,RSLC,35000,2
+2012,NRG Energy,DGA,35000,2
+2012,American Gas Association,RSLC,29296,8
+2012,Exelon,RGA,26350,4
+2012,American Electric Power,RSLC,26273,7
+2012,AES Corporation,RGA,25450,2
+2012,Edison Electric Institute,RGA,25450,2
+2012,AES Corporation,DGA,25350,2
+2012,Alta Gas,DGA,25000,1
+2012,Avista Corporation,RGA,25000,1
+2012,Berkshire Hathaway Energy,DLCC,25000,1
+2012,CenterPoint Energy,RGA,25000,1
+2012,DTE Energy,RGA,25000,1
+2012,Exelon,RSLC,25000,2
+2012,NRG Energy,RGA,25000,1
+2012,Nuclear Energy Institute,DAGA,25000,1
+2012,PPL Corporation,RGA,25000,1
+2012,Public Service Enterprise Group,RSLC,25000,1
+2012,Xcel Energy,DGA,25000,1
+2012,Xcel Energy,RGA,25000,1
+2012,American Gas Association,RGA,20450,2
+2012,American Gas Association,DGA,20350,2
+2012,WEC Energy,RGA,20000,2
+2012,Berkshire Hathaway Energy,RSLC,15000,2
+2012,Dominion Energy,DAGA,15000,1
+2012,Puget Sound Energy,RGA,15000,1
+2012,Public Service Enterprise Group,DGA,13550,3
+2012,WEC Energy,RSLC,12500,2
+2012,Edison Electric Institute,DLCC,12000,1
+2012,Alliant Energy,DAGA,10000,1
+2012,Ameren,DGA,10000,1
+2012,American Electric Power,DAGA,10000,1
+2012,American Gas Association,GOPAC,10000,1
+2012,Black Hills Corporation,RGA,10000,1
+2012,CMS Energy,RGA,10000,1
+2012,Dominion Energy,DLCC,10000,1
+2012,Exelon,DLCC,10000,1
+2012,FirstEnergy,DGA,10000,1
+2012,NiSource,RSLC,10000,1
+2012,Puget Sound Energy,DGA,10000,1
+2012,Sempra Energy,RSLC,10000,1
+2012,American Gas Association,DLCC,5000,1
+2012,Duke Energy,DAGA,5000,1
+2012,Pinnacle West Capital,RSLC,5000,1
+2012,Xcel Energy,DLCC,5000,1
+2012,Southwest Gas,RSLC,597,1
+2012,PPL Corporation,DGA,350,1
+2012,Southern Company,RSLC,299,1
+2011,Exelon,DGA,331350,10
+2011,NextEra,RGA,261007,3
+2011,Duke Energy,DGA,255500,5
+2011,FirstEnergy,RGA,250000,1
+2011,NiSource,RGA,250000,2
+2011,Southern Company,RGA,225450,4
+2011,Duke Energy,RGA,175450,9
+2011,Southern Company,DGA,125000,2
+2011,Nuclear Energy Institute,RGA,100450,2
+2011,Essential Utilities,RGA,100000,1
+2011,FirstEnergy,DGA,100000,1
+2011,NextEra,DGA,100000,1
+2011,Nuclear Energy Institute,DGA,100000,1
+2011,Nuclear Energy Institute,RSLC,77899,7
+2011,American Electric Power,DGA,75000,2
+2011,Exelon,RGA,61350,5
+2011,Dominion Energy,DGA,60000,3
+2011,Edison Electric Institute,RSLC,50215,2
+2011,American Electric Power,RGA,50000,1
+2011,Calpine,DGA,50000,1
+2011,DTE Energy,RGA,50000,2
+2011,Duke Energy,RSLC,50000,1
+2011,Entergy,DGA,50000,1
+2011,NRG Energy,DGA,50000,1
+2011,NextEra,RSLC,50000,1
+2011,Nuclear Energy Institute,DLCC,50000,1
+2011,Pinnacle West Capital,RGA,50000,1
+2011,Dominion Energy,RGA,35450,3
+2011,AES Corporation,RGA,25900,3
+2011,Alliant Energy,RGA,25450,2
+2011,Edison Electric Institute,RGA,25450,2
+2011,El Paso Electric,RGA,25450,2
+2011,AES Corporation,DGA,25250,2
+2011,Avista Corporation,DGA,25000,1
+2011,Berkshire Hathaway Energy,RGA,25000,1
+2011,Edison Electric Institute,DAGA,25000,1
+2011,El Paso Electric,DGA,25000,1
+2011,Nuclear Energy Institute,DAGA,25000,1
+2011,Southern Company,RSLC,25000,2
+2011,Xcel Energy,DGA,25000,1
+2011,American Gas Association,DGA,21350,6
+2011,American Gas Association,RGA,20450,2
+2011,CenterPoint Energy,RGA,20450,2
+2011,PPL Corporation,RGA,15450,2
+2011,American Gas Association,RSLC,15299,3
+2011,Dominion Energy,DAGA,15000,1
+2011,Exelon,RSLC,15000,1
+2011,Public Service Enterprise Group,RSLC,12500,2
+2011,American Gas Association,GOPAC,12285,2
+2011,American Electric Power,RSLC,10299,2
+2011,American Electric Power,DAGA,10000,1
+2011,Public Service Enterprise Group,DGA,10000,1
+2011,Public Service Enterprise Group,RGA,10000,1
+2011,WEC Energy,RSLC,10000,1
+2011,Xcel Energy,RGA,10000,1
+2011,Xcel Energy,RSLC,10000,1
+2011,Duke Energy,DAGA,5000,1
+2011,Xcel Energy,DLCC,5000,1
+2011,Dominion Energy,RSLC,524,2
+2010,NextEra,RGA,750000,5
+2010,FirstEnergy,DGA,550062,5
+2010,FirstEnergy,RGA,525000,6
+2010,NextEra,DGA,455000,5
+2010,Duke Energy,DGA,400000,6
+2010,American Electric Power,RGA,150450,4
+2010,American Electric Power,DGA,150000,2
+2010,Duke Energy,RGA,150000,4
+2010,Dominion Energy,DGA,140250,8
+2010,Southern Company,DGA,100000,1
+2010,Dominion Energy,RGA,75450,4
+2010,Dominion Energy,RSLC,70598,6
+2010,Berkshire Hathaway Energy,RGA,60900,5
+2010,Entergy,RGA,50760,2
+2010,Edison Electric Institute,DGA,50093,5
+2010,Berkshire Hathaway Energy,DGA,50000,2
+2010,Edison Electric Institute,RSLC,50000,1
+2010,El Paso Electric,DGA,50000,1
+2010,Exelon,RGA,50000,1
+2010,FirstEnergy,RSLC,50000,1
+2010,Exelon,DGA,47500,5
+2010,Southern Company,RGA,35900,4
+2010,Public Service Enterprise Group,RGA,35450,3
+2010,CenterPoint Energy,RGA,27000,2
+2010,NiSource,RGA,27000,2
+2010,NRG Energy,DGA,25562,4
+2010,Alliant Energy,RGA,25450,2
+2010,CMS Energy,RGA,25450,2
+2010,Nuclear Energy Institute,RGA,25450,2
+2010,Xcel Energy,RGA,25450,2
+2010,Ameren,DGA,25000,1
+2010,Avista Corporation,DGA,25000,1
+2010,Dominion Energy,DAGA,25000,1
+2010,Edison Electric Institute,DAGA,25000,1
+2010,Evergy,DGA,25000,1
+2010,Nuclear Energy Institute,DGA,25000,1
+2010,Pinnacle West Capital,RGA,25000,2
+2010,Xcel Energy,DGA,25000,1
+2010,Berkshire Hathaway Energy,DLCC,23000,2
+2010,American Gas Association,RGA,20450,2
+2010,American Gas Association,DGA,20000,2
+2010,Exelon,DLCC,20000,2
+2010,Edison Electric Institute,RGA,15450,2
+2010,Nuclear Energy Institute,RSLC,12500,2
+2010,Nuclear Energy Institute,DLCC,12000,1
+2010,Alliant Energy,RSLC,10000,1
+2010,American Electric Power,DAGA,10000,1
+2010,Eversource,DGA,10000,1
+2010,Exelon,RSLC,10000,1
+2010,IDACORP,RGA,10000,1
+2010,NiSource,DGA,10000,1
+2010,Nuclear Energy Institute,DAGA,10000,1
+2010,PPL Corporation,RGA,10000,1
+2010,Puget Sound Energy,DGA,10000,1
+2010,Salt River Project,RGA,10000,2
+2010,Southwest Gas,RGA,10000,1
+2010,WEC Energy,RGA,10000,1
+2010,Xcel Energy,DLCC,10000,1
+2010,Alliant Energy,DLCC,7500,2
+2010,Fortis,RGA,6000,2
+2010,American Electric Power,RSLC,5474,3
+2010,Ameren,RGA,5000,1
+2010,CenterPoint Energy,RSLC,5000,1
+2010,Exelon,GOPAC,5000,1
+2010,NRG Energy,DLCC,5000,1
+2010,Puget Sound Energy,RSLC,5000,1
+2010,American Gas Association,GOPAC,4500,2
+2010,American Gas Association,RSLC,3500,1
+2010,WEC Energy,RSLC,2600,2
+2010,Edison Electric Institute,GOPAC,2500,1
+2009,Southern Company,RGA,225450,4
+2009,FirstEnergy,DGA,150100,3
+2009,Southern Company,DGA,135000,3
+2009,Duke Energy,DGA,100000,2
+2009,Duke Energy,RGA,100000,4
+2009,NextEra,DGA,100000,1
+2009,Dominion Energy,RGA,60000,2
+2009,American Electric Power,RGA,50450,2
+2009,American Electric Power,DGA,50000,1
+2009,Dominion Energy,DGA,50000,4
+2009,Duke Energy,RSLC,50000,2
+2009,Edison Electric Institute,RSLC,50000,1
+2009,FirstEnergy,RGA,50000,1
+2009,NRG Energy,RGA,50000,1
+2009,Dominion Energy,RSLC,40000,3
+2009,Public Service Enterprise Group,DGA,30745,5
+2009,Edison Electric Institute,DGA,26585,2
+2009,AES Corporation,RGA,25450,2
+2009,CenterPoint Energy,RGA,25450,2
+2009,Alliant Energy,DGA,25000,1
+2009,Berkshire Hathaway Energy,DGA,25000,1
+2009,Edison Electric Institute,DAGA,25000,1
+2009,NRG Energy,DGA,25000,1
+2009,Nuclear Energy Institute,DGA,25000,1
+2009,Nuclear Energy Institute,RGA,25000,1
+2009,American Gas Association,DGA,21164,3
+2009,Public Service Enterprise Group,RGA,20450,3
+2009,American Gas Association,RSLC,20031,2
+2009,American Gas Association,RGA,20000,1
+2009,Berkshire Hathaway Energy,DLCC,20000,1
+2009,Calpine,DGA,20000,2
+2009,Calpine,RGA,20000,2
+2009,Dominion Energy,DAGA,20000,2
+2009,Edison Electric Institute,RGA,15450,2
+2009,Berkshire Hathaway Energy,RGA,15000,2
+2009,Exelon,DLCC,15000,1
+2009,Nuclear Energy Institute,DLCC,12000,1
+2009,Nuclear Energy Institute,RSLC,10299,3
+2009,AES Corporation,DGA,10000,1
+2009,Black Hills Corporation,RGA,10000,1
+2009,Eversource,DGA,10000,1
+2009,Exelon,DGA,10000,1
+2009,Nuclear Energy Institute,DAGA,10000,1
+2009,Xcel Energy,DGA,10000,1
+2009,Xcel Energy,RGA,10000,1
+2009,Southern Company,RSLC,6000,2
+2009,CenterPoint Energy,RSLC,5250,2
+2009,Ameren,DGA,5000,1
+2009,American Electric Power,RSLC,5000,1
+2009,Entergy,DAGA,5000,1
+2009,Puget Sound Energy,RSLC,5000,1
+2009,Salt River Project,DAGA,5000,1
+2009,American Electric Power,DAGA,2500,1
+2009,PPL Corporation,DLCC,2500,1
+2009,Consolidated Edison,DGA,2000,1
+2009,Berkshire Hathaway Energy,RSLC,1000,1
+2009,Exelon,RGA,450,1
+2009,CMS Energy,DGA,250,1
+2008,Southern Company,RGA,131350,5
+2008,Duke Energy,RGA,130000,3
+2008,NextEra,DGA,125000,2
+2008,Southern Company,DGA,110000,3
+2008,Nuclear Energy Institute,RGA,91213,3
+2008,NextEra,RGA,75450,3
+2008,American Electric Power,DGA,75250,2
+2008,American Gas Association,RGA,70450,3
+2008,American Gas Association,RSLC,61839,5
+2008,American Electric Power,RGA,50450,2
+2008,Atmos Energy,RGA,50000,1
+2008,FirstEnergy,DGA,50000,1
+2008,NRG Energy,RGA,50000,1
+2008,Edison Electric Institute,RSLC,45036,2
+2008,Dominion Energy,DGA,40250,3
+2008,Berkshire Hathaway Energy,DLCC,40000,2
+2008,Calpine,DGA,35000,2
+2008,Calpine,RGA,35000,2
+2008,Dominion Energy,RGA,35000,2
+2008,Dominion Energy,RSLC,35000,1
+2008,American Electric Power,RSLC,30000,1
+2008,Alliant Energy,DGA,25250,2
+2008,Nuclear Energy Institute,DGA,25150,2
+2008,AES Corporation,DGA,25000,1
+2008,CenterPoint Energy,RGA,25000,1
+2008,Dominion Energy,DAGA,25000,1
+2008,Duke Energy,RSLC,25000,1
+2008,Edison Electric Institute,DAGA,25000,1
+2008,Edison Electric Institute,DGA,25000,1
+2008,Public Service Enterprise Group,RGA,25000,2
+2008,American Gas Association,DGA,20500,3
+2008,Edison Electric Institute,RGA,15000,1
+2008,Puget Sound Energy,RGA,15000,1
+2008,Nuclear Energy Institute,DLCC,12000,1
+2008,Berkshire Hathaway Energy,RGA,10000,2
+2008,CMS Energy,DLCC,10000,1
+2008,DTE Energy,DLCC,10000,1
+2008,Exelon,DGA,10000,1
+2008,Exelon,DLCC,10000,1
+2008,WEC Energy,DGA,10000,1
+2008,Xcel Energy,DGA,6000,1
+2008,Nuclear Energy Institute,RSLC,5299,2
+2008,DTE Energy,RSLC,5000,1
+2008,El Paso Electric,RGA,5000,1
+2008,Puget Sound Energy,RSLC,5000,1
+2008,Salt River Project,DAGA,5000,1
+2008,Algonquin,DGA,4000,2
+2008,Public Service Enterprise Group,DGA,2750,2
+2008,Xcel Energy,DLCC,1000,1
+2008,Sempra Energy,RGA,900,2
+2008,American Electric Power,DLCC,750,1
+2008,Duke Energy,DGA,750,3
+2007,Southern Company,RGA,110000,2
+2007,NextEra,RGA,55000,2
+2007,American Electric Power,DGA,50000,1
+2007,American Electric Power,RGA,50000,1
+2007,Edison Electric Institute,RSLC,50000,1
+2007,Dominion Energy,RSLC,35000,2
+2007,Dominion Energy,DGA,25250,2
+2007,Avista Corporation,DGA,25000,1
+2007,Berkshire Hathaway Energy,RGA,25000,1
+2007,CenterPoint Energy,RGA,25000,1
+2007,DTE Energy,DGA,25000,1
+2007,Duke Energy,DGA,25000,1
+2007,Edison Electric Institute,DAGA,25000,1
+2007,Eversource,DGA,25000,1
+2007,Puget Sound Energy,DGA,25000,1
+2007,Xcel Energy,DGA,25000,1
+2007,Xcel Energy,RGA,25000,1
+2007,American Gas Association,RSLC,20399,3
+2007,American Gas Association,RGA,20000,1
+2007,American Electric Power,RSLC,15000,1
+2007,Duke Energy,RGA,15000,2
+2007,Duke Energy,RSLC,15000,1
+2007,Edison Electric Institute,RGA,15000,1
+2007,Exelon,RSLC,15000,2
+2007,Public Service Enterprise Group,DGA,15000,1
+2007,Public Service Enterprise Group,RGA,15000,1
+2007,Sempra Energy,DGA,12500,1
+2007,Sempra Energy,RGA,12500,1
+2007,Edison Electric Institute,DLCC,12000,1
+2007,American Gas Association,DGA,11675,3
+2007,Calpine,DGA,10000,1
+2007,Calpine,RGA,10000,1
+2007,DTE Energy,RGA,10000,1
+2007,Edison Electric Institute,DGA,10000,1
+2007,Exelon,RGA,10000,1
+2007,National Grid,RGA,10000,1
+2007,Pinnacle West Capital,DGA,10000,1
+2007,Nuclear Energy Institute,DLCC,6000,1
+2007,American Gas Association,GOPAC,5000,1
+2007,DTE Energy,RSLC,5000,1
+2007,Puget Sound Energy,RSLC,5000,1
+2007,Salt River Project,DAGA,5000,1
+2007,WEC Energy,DLCC,5000,1
+2007,Nuclear Energy Institute,RSLC,2500,1
+2007,Pinnacle West Capital,RGA,2000,1
+2006,FirstEnergy,DGA,125000,2
+2006,FirstEnergy,RGA,100000,1
+2006,Southern Company,RGA,100000,1
+2006,American Electric Power,DGA,50000,2
+2006,Edison Electric Institute,RSLC,50000,1
+2006,Dominion Energy,RSLC,30000,2
+2006,Dominion Energy,DGA,27500,2
+2006,Exelon,RGA,27500,2
+2006,Duke Energy,DLCC,25000,2
+2006,Duke Energy,RSLC,25000,2
+2006,Eversource,RGA,25000,1
+2006,FirstEnergy,RSLC,25000,1
+2006,NextEra,DGA,25000,1
+2006,NextEra,RGA,25000,1
+2006,American Gas Association,RGA,21350,4
+2006,American Gas Association,RSLC,20000,5
+2006,Berkshire Hathaway Energy,DGA,20000,2
+2006,Edison Electric Institute,DGA,20000,1
+2006,Berkshire Hathaway Energy,DLCC,15000,1
+2006,Edison Electric Institute,RGA,15000,1
+2006,Nuclear Energy Institute,DGA,15000,2
+2006,Pinnacle West Capital,DGA,15000,1
+2006,Public Service Enterprise Group,DGA,15000,1
+2006,Xcel Energy,DGA,15000,2
+2006,Xcel Energy,RGA,15000,2
+2006,Exelon,DLCC,12000,1
+2006,DTE Energy,RGA,10425,2
+2006,Nuclear Energy Institute,RGA,10425,2
+2006,American Gas Association,DGA,10390,2
+2006,CMS Energy,RGA,10000,1
+2006,Duke Energy,RGA,10000,1
+2006,NRG Energy,DGA,10000,1
+2006,National Grid,RGA,10000,1
+2006,Pinnacle West Capital,RGA,10000,1
+2006,Dominion Energy,DLCC,8500,1
+2006,American Gas Association,GOPAC,5000,1
+2006,Puget Sound Energy,RSLC,5000,1
+2006,NextEra,GOPAC,3500,2
+2006,CenterPoint Energy,RSLC,500,1
+2006,Public Service Enterprise Group,RGA,425,1
+2006,Spire,GOPAC,125,2
+2005,American Gas Association,RGA,43418,4
+2005,American Gas Association,RSLC,30000,4
+2005,Southern Company,RGA,30000,2
+2005,Calpine,RGA,26175,3
+2005,American Gas Association,DGA,26103,2
+2005,Berkshire Hathaway Energy,RGA,25000,1
+2005,Sempra Energy,DGA,25000,1
+2005,Public Service Enterprise Group,RGA,16600,5
+2005,Pinnacle West Capital,DGA,15000,1
+2005,Public Service Enterprise Group,DGA,15000,2
+2005,Duke Energy,DLCC,12000,1
+2005,Exelon,RGA,10425,2
+2005,AES Corporation,RGA,10000,1
+2005,Calpine,DGA,10000,1
+2005,Exelon,DGA,10000,1
+2005,NextEra,RGA,10000,1
+2005,Salt River Project,DGA,10000,1
+2005,WEC Energy,DGA,10000,1
+2005,Nuclear Energy Institute,RGA,5425,2
+2005,Avista Corporation,RGA,5000,1
+2005,Dominion Energy,RGA,5000,1
+2005,MGE Energy,DGA,5000,1
+2005,Puget Sound Energy,RSLC,5000,1
+2005,NextEra,GOPAC,2500,1
+2004,American Gas Association,RGA,277454,7
+2004,Edison Electric Institute,RGA,56815,8
+2004,American Gas Association,DGA,47566,5
+2004,Edison Electric Institute,DGA,40000,2
+2004,American Gas Association,RSLC,30000,2
+2004,Calpine,RGA,26545,4
+2004,Exelon,DGA,25000,1
+2004,Public Service Enterprise Group,RGA,22085,5
+2004,DTE Energy,RGA,20425,3
+2004,WEC Energy,DGA,20000,2
+2004,Exelon,RGA,17500,4
+2004,Duke Energy,RGA,15000,3
+2004,Duke Energy,DLCC,12000,1
+2004,Southern Company,RGA,11000,2
+2004,Pinnacle West Capital,DGA,10000,1
+2004,Public Service Enterprise Group,DGA,10000,1
+2004,Salt River Project,DGA,10000,2
+2004,Nuclear Energy Institute,RGA,5425,2
+2004,Avista Corporation,DLCC,5000,1
+2004,Edison International,GOPAC,2500,1
+2004,Duke Energy,RSLC,2000,1
+2004,Berkshire Hathaway Energy,DLCC,1000,1
+2004,American Electric Power,RGA,425,1
+2003,American Gas Association,RGA,26595,8
+2003,Edison Electric Institute,RGA,26185,6
+2003,Calpine,RGA,26140,4
+2003,Eversource,RGA,25395,2
+2003,Berkshire Hathaway Energy,DGA,20000,1
+2003,Edison Electric Institute,DGA,20000,1
+2003,Exelon,RGA,16130,4
+2003,Public Service Enterprise Group,RGA,15395,4
+2003,American Gas Association,DGA,15000,2
+2003,Puget Sound Energy,DGA,15000,1
+2003,Duke Energy,DLCC,12000,1
+2003,American Gas Association,RSLC,10000,2
+2003,FirstEnergy,RGA,10000,1
+2003,NextEra,RGA,10000,2
+2003,Public Service Enterprise Group,DGA,10000,1
+2003,Calpine,DGA,7500,1
+2003,Exelon,DGA,7500,1
+2003,AES Corporation,DLCC,5000,1
+2003,Duke Energy,RGA,5000,3
+2003,Salt River Project,DGA,5000,1
+2003,Southern Company,RGA,4000,3
+2003,Alta Gas,DLCC,2500,1
+2003,DTE Energy,DLCC,2500,1
+2003,PG&E Corp,RGA,395,1
+2002,FirstEnergy,RGA,100000,1
+2002,DTE Energy,RGA,26078,3
+2002,Eversource,RGA,25000,1
+2002,Exelon,RGA,20539,2
+2002,Calpine,RGA,15000,1
+2002,CMS Energy,RGA,10000,1
+2002,Pinnacle West Capital,RGA,5000,1
+2002,American Gas Association,RGA,700,2
+2002,Edison Electric Institute,RGA,350,1
