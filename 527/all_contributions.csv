@@ -1,74 +1,4 @@
 year,org_short,utility_parent_company,utility_entity_matched,contributor_name,amount_usd,contribution_date,match_type
-2026,DGA,Avangrid,Avangrid,AVANGRID INC.,250000,2026-03-06,entity_simplified
-2026,DGA,Dominion Energy,Dominion Energy Services,DOMINION ENERGY SERVICES INC.,250000,2026-02-18,entity_simplified
-2026,DGA,Vistra Energy,Vistra Corporate Services,VISTRA CORPORATE SERVICES CO,250000,2026-01-30,entity_simplified
-2026,DGA,Southern Company,Southern Company Services,"SOUTHERN COMPANY SERVICES, INC.",150000,2026-01-05,entity_simplified
-2026,RGA,Dominion Energy,Dominion Energy Services,DOMINION ENERGY SERVICES INC,150000,2026-02-10,entity_simplified
-2026,RSLC,Dominion Energy,Dominion Energy Services,"DOMINION ENERGY SERVICES, INC.",150000,2026-01-26,entity_simplified
-2026,DAGA,Dominion Energy,Dominion Energy,DOMINION ENERGY,125000,2026-02-18,entity_exact
-2026,RAGA,NextEra,Florida Power & Light,FLORIDA POWER AND LIGHT COMPANY,125000,2026-01-06,entity_simplified
-2026,RGA,American Electric Power,American Electric Power,AMERICAN ELECTRIC POWER,125000,2026-03-06,entity_exact
-2026,DGA,American Electric Power,American Electric Power,AMERICAN ELECTRIC POWER,100000,2026-03-06,entity_exact
-2026,DGA,Nuclear Energy Institute,Nuclear Energy Institute,NUCLEAR ENERGY INSTITUTE,100000,2026-01-16,entity_exact
-2026,DLCC,Vistra Energy,Vistra Corporate Services,VISTRA CORPORATE SERVICES COMPANY,100000,2026-02-12,entity_simplified
-2026,GOPAC,Dominion Energy,Dominion Energy,DOMINION ENERGY,100000,2026-02-02,entity_exact
-2026,RGA,Avangrid,Avangrid,AVANGRID INC,100000,2026-03-13,entity_simplified
-2026,RGA,Duke Energy,Duke Energy,DUKE ENERGY CORP,100000,2026-03-04,entity_simplified
-2026,RGA,Edison Electric Institute,Edison Electric Institute,EDISON ELECTRIC INSTITUTE,100000,2026-02-13,entity_exact
-2026,RSLC,Southern Company,Southern Company Services,"SOUTHERN COMPANY SERVICES, INC.",100000,2026-03-12,entity_simplified
-2026,RSLC,Vistra Energy,Vistra Energy,VISTRA OPERATIONS COMPANY LLC,100000,2026-02-11,entity_word_boundary
-2026,DAGA,NRG Energy,NRG Energy,"NRG ENERGY, INC.",50000,2026-02-02,entity_simplified
-2026,DLCC,NextEra,NextEra,NEXTERA ENERGY RESOURCES,50000,2026-02-06,entity_word_boundary
-2026,GOPAC,Pinnacle West Capital,APS,APS,50000,2026-02-05,entity_word_boundary
-2026,GOPAC,NextEra,Florida Power & Light,FLORIDA POWER AND LIGHT COMPANY,50000,2026-01-09,entity_simplified
-2026,GOPAC,NextEra,Florida Power & Light,FLORIDA POWER AND LIGHT COMPANY,50000,2026-01-28,entity_simplified
-2026,RAGA,NRG Energy,NRG Energy,NRG ENERGY INC,50000,2026-02-05,entity_simplified
-2026,RAGA,OGE Energy Corp,OGE Energy,OGE ENERGY CORP.,50000,2026-03-05,entity_simplified
-2026,RGA,Dominion Energy,Hope Gas Inc,HOPE GAS INC,50000,2026-02-18,entity_exact
-2026,RGA,OGE Energy Corp,OGE Energy,OGE ENERGY CORPORATION,50000,2026-03-27,entity_simplified
-2026,RSLC,American Gas Association,American Gas Association,AMERICAN GAS ASSOCIATION,50000,2026-02-27,entity_exact
-2026,RSLC,Nuclear Energy Institute,Nuclear Energy Institute,NUCLEAR ENERGY INSTITUTE,50000,2026-01-15,entity_exact
-2026,RSLC,Essential Utilities,Peoples Natural Gas,PEOPLES NATURAL GAS CO LLC,50000,2026-01-08,entity_simplified
-2026,GOPAC,Pinnacle West Capital,APS,APS,35000,2026-02-02,entity_word_boundary
-2026,DGA,National Grid,National Grid,NATIONAL GRID USA,30000,2026-03-31,entity_simplified
-2026,RSLC,Essential Utilities,Peoples Natural Gas,PEOPLES NATURAL GAS CO LLC,30000,2026-01-08,entity_simplified
-2026,DAGA,Vistra Energy,Vistra Corporate Services,VISTRA CORPORATE SERVICES COMPANY,25000,2026-01-21,entity_simplified
-2026,DGA,American Gas Association,American Gas Association,AMERICAN GAS ASSOCIATION,25000,2026-03-03,entity_exact
-2026,DGA,Fortis,ITC Holdings,ITC HOLDINGS CORPORATION,25000,2026-02-02,entity_simplified
-2026,DGA,NextEra,NextEra,NEXTERA ENERGY RESOURCES LLC,25000,2026-03-03,entity_word_boundary
-2026,DLCC,Fortis,ITC Holdings,ITC HOLDINGS CORP,25000,2026-02-04,entity_exact
-2026,DLCC,NextEra,NextEra,NEXTERA ENERGY RESOURCES,25000,2026-02-06,entity_word_boundary
-2026,DLCC,NRG Energy,NRG Energy,NRG ENERGY INC.,25000,2026-02-12,entity_simplified
-2026,GOPAC,Edison Electric Institute,Edison Electric Institute,EDISON ELECTRIC INSTITUTE,25000,2026-02-13,entity_exact
-2026,GOPAC,Emera,Tampa Electric,TECO ENERGY/ TAMPA ELECTRIC COMPANY,25000,2026-01-23,entity_simplified
-2026,RAGA,Vistra Energy,Vistra Corporate Services,VISTRA CORPORATE SERVICES COMPANY,25000,2026-02-04,entity_simplified
-2026,RGA,NextEra,NextEra,NEXTERA ENERGY RESOURCES LLC,25000,2026-01-21,entity_word_boundary
-2026,RGA,NextEra,NextEra,NEXTERA ENERGY RESOURCES LLC,25000,2026-03-02,entity_word_boundary
-2026,RGA,NextEra,NextEra,NEXTERA ENERGY RESOURCES LLC,25000,2026-03-12,entity_word_boundary
-2026,RSLC,American Electric Power,American Electric Power,AMERICAN ELECTRIC POWER SERVICE CORPORATION,25000,2026-03-07,entity_simplified
-2026,RSLC,NextEra,NextEra,NEXTERA ENERGY RESOURCES LLC,25000,2026-01-21,entity_word_boundary
-2026,RSLC,NRG Energy,NRG Energy,NRG ENERGY INC.,25000,2026-03-02,entity_simplified
-2026,RSLC,Vistra Energy,Vistra Energy,VISTRA OPERATIONS COMPANY LLC,25000,2026-02-20,entity_word_boundary
-2026,DLCC,Duquesne Light Company,Duquesne Light Company,DUQUESNE LIGHT COMPANY,22000,2026-02-25,entity_exact
-2026,RAGA,NRG Energy,NRG Energy,NRG ENERGY INC,20000,2026-03-19,entity_simplified
-2026,RSLC,Essential Utilities,Peoples Natural Gas,PEOPLES NATURAL GAS CO LLC,20000,2026-01-08,entity_simplified
-2026,DAGA,American Gas Association,American Gas Association,AMERICAN GAS ASSOCIATION,15000,2026-03-06,entity_exact
-2026,DGA,Dominion Energy,Dominion Energy Services,DOMINION ENERGY SERVICES INC.,15000,2026-01-05,entity_simplified
-2026,GOPAC,Southwest Gas,Southwest Gas,SOUTHWEST GAS CORPORATION,15000,2026-01-06,entity_simplified
-2026,GOPAC,Emera,Tampa Electric,TECO ENERGY/ TAMPA ELECTRIC COMPANY,15000,2026-01-09,entity_simplified
-2026,RSLC,American Gas Association,American Gas Association,AMERICAN GAS ASSOCIATION,15000,2026-02-27,entity_exact
-2026,RSLC,Edison Electric Institute,Edison Electric Institute,EDISON ELECTRIC INSTITUTE,15000,2026-03-20,entity_exact
-2026,RSLC,Vistra Energy,Vistra Energy,VISTRA OPERATIONS COMPANY LLC,15000,2026-01-29,entity_word_boundary
-2026,RSLC,Vistra Energy,Vistra Energy,VISTRA OPERATIONS COMPANY LLC,15000,2026-01-29,entity_word_boundary
-2026,DGA,Edison Electric Institute,Edison Electric Institute,EDISON ELECTRIC INSTITUTE,10000,2026-03-27,entity_exact
-2026,DGA,NiSource,Nisource Corporate Services,NISOURCE CORPORATE SERVICES,10000,2026-01-13,entity_exact
-2026,DGA,Fortis,Tucson Electric Power,TUCSON ELECTRIC POWER,10000,2026-01-29,entity_exact
-2026,DLCC,NRG Energy,NRG Energy,NRG ENERGY INC.,10000,2026-02-12,entity_simplified
-2026,GOPAC,Pinnacle West Capital,APS,APS,10000,2026-01-05,entity_word_boundary
-2026,RSLC,NextEra,NextEra,NEXTERA ENERGY CORP,10000,2026-02-23,entity_word_boundary
-2026,RSLC,American Gas Association,American Gas Association,AMERICAN GAS ASSOCIATION,5000,2026-02-27,entity_exact
-2026,RSLC,Edison Electric Institute,Edison Electric Institute,EDISON ELECTRIC INSTITUTE,5000,2026-03-20,entity_exact
-2026,RSLC,Vistra Energy,Vistra Energy,VISTRA OPERATIONS COMPANY LLC,3500,2026-01-13,entity_word_boundary
 2025,RGA,Edison Electric Institute,Edison Electric Institute,EDISON ELECTRIC INSTITUTE - IN-KIND,410036,2025-01-20,entity_simplified
 2025,DGA,Dominion Energy,Dominion Energy Services,DOMINION ENERGY SERVICES INC.,300000,2025-09-11,entity_simplified
 2025,DGA,Pinnacle West Capital,APS,APS,250000,2025-12-30,entity_word_boundary
@@ -88,7 +18,6 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2025,DAGA,Dominion Energy,Dominion Energy,DOMINION ENERGY,125000,2025-01-10,entity_exact
 2025,DAGA,Dominion Energy,Dominion Energy,DOMINION ENERGY,125000,2025-09-26,entity_exact
 2025,DGA,Dominion Energy,Dominion Energy Services,DOMINION ENERGY SERVICES INC.,125000,2025-10-01,entity_simplified
-2025,DLCC,Public Service Enterprise Group,PSEG,PSEG SERVICES,125000,2025-10-14,entity_word_boundary
 2025,RAGA,Southern Company,Southern Company Services,"SOUTHERN COMPANY SERVICES, INC.",125000,2025-01-08,entity_simplified
 2025,RAGA,Southern Company,Southern Company Services,"SOUTHERN COMPANY SERVICES, INC.",125000,2025-12-30,entity_simplified
 2025,DGA,Public Service Enterprise Group,PSEG Services Corp,PSEG SERVICES CORPORATION,110000,2025-10-31,entity_simplified
@@ -130,7 +59,6 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2025,DGA,NiSource,Nisource Corporate Services,NISOURCE CORPORATE SERVICES,50000,2025-01-07,entity_exact
 2025,DGA,Salt River Project,Salt River Project,SALT RIVER PROJECT,50000,2025-11-07,entity_exact
 2025,DGA,Alta Gas,Washington Gas,WASHINGTON GAS,50000,2025-07-08,entity_exact
-2025,DLCC,Duke Energy,Duke Energy,DUKE ENERGY CORPORATION,50000,2025-11-18,entity_simplified
 2025,DLCC,Nuclear Energy Institute,Nuclear Energy Institute,NUCLEAR ENERGY INSTITUTE,50000,2025-03-10,entity_exact
 2025,GOPAC,NextEra,Florida Power & Light,FLORIDA POWER AND LIGHT COMPANY,50000,2025-04-10,entity_simplified
 2025,RAGA,American Gas Association,American Gas Association,AMERICAN GAS ASSOCIATION,50000,2025-02-03,entity_exact
@@ -178,7 +106,6 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2025,DGA,Xcel Energy,Xcel Energy,XCEL ENERGY,25000,2025-06-18,entity_exact
 2025,DGA,Xcel Energy,Xcel Energy,XCEL ENERGY,25000,2025-09-19,entity_exact
 2025,DLCC,Edison Electric Institute,Edison Electric Institute,EDISON ELECTRIC INSTITUTE,25000,2025-06-03,entity_exact
-2025,DLCC,Fortis,ITC Holdings,ITC HOLDINGS CORP,25000,2025-08-05,entity_exact
 2025,GOPAC,NextEra,Florida Power & Light,FLORIDA POWER AND LIGHT COMPANY,25000,2025-11-06,entity_simplified
 2025,GOPAC,NextEra,Florida Power & Light,FLORIDA POWER AND LIGHT COMPANY,25000,2025-11-06,entity_simplified
 2025,GOPAC,Southern Company,Southern Company,SOUTHERN COMPANY,25000,2025-08-11,entity_exact
@@ -218,7 +145,6 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2025,DGA,NextEra,NextEra,NEXTERA ENERGY POINT BEACH LLC,15000,2025-05-13,entity_word_boundary
 2025,DGA,NRG Energy,NRG Energy,NRG ENERGY INC.,15000,2025-05-29,entity_simplified
 2025,DLCC,American Gas Association,American Gas Association,AMERICAN GAS ASSOCIATION,15000,2025-02-03,entity_exact
-2025,DLCC,NRG Energy,NRG Energy,NRG ENERGY INC.,15000,2025-10-14,entity_simplified
 2025,GOPAC,Emera,Tampa Electric,TECO ENERGY/ TAMPA ELECTRIC COMPANY,15000,2025-01-27,entity_simplified
 2025,RAGA,NextEra,Florida Power & Light,FLORIDA POWER AND LIGHT COMPANY,15000,2025-10-27,entity_simplified
 2025,RAGA,PPL Corporation,LGandE and KU Services,LGANDE AND KU SERVICES COMPANY,15000,2025-10-28,entity_simplified
@@ -233,7 +159,7 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2025,DGA,American Gas Association,American Gas Association,AMERICAN GAS ASSOCIATION,10000,2025-09-23,entity_exact
 2025,DGA,CenterPoint Energy,CenterPoint Energy Service,"CENTERPOINT ENERGY SERVICE COMPANY, LLC",10000,2025-12-17,entity_simplified
 2025,DGA,NiSource,Columbia Gas of Pennsylvania,COLUMBIA GAS OF PENNSYLVANIA,10000,2025-05-09,entity_exact
-2025,DGA,Dominion Energy,Columbia Gas of Virginia,COLUMBIA GAS OF VIRGINIA,10000,2025-10-27,entity_exact
+2025,DGA,NiSource,Columbia Gas of Virginia,COLUMBIA GAS OF VIRGINIA,10000,2025-10-27,entity_exact
 2025,DGA,Exelon,Constellation Energy Group,"CONSTELLATION ENERGY GROUP, INC.",10000,2025-08-11,entity_simplified
 2025,DGA,Edison Electric Institute,Edison Electric Institute,EDISON ELECTRIC INSTITUTE,10000,2025-08-29,entity_exact
 2025,DGA,NextEra,NextEra,NEXTERA ENERGY RESOURCES LLC,10000,2025-04-14,entity_word_boundary
@@ -253,12 +179,10 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2025,RGA,NextEra,NextEra,NEXTERA ENERGY TRANSMISSION CORPORATION,10000,2025-01-10,entity_word_boundary
 2025,RSLC,NextEra,NextEra,NEXTERA ENERGY RESOURCES LLC,10000,2025-03-28,entity_word_boundary
 2025,RSLC,Emera,Tampa Electric,TAMPA ELECTRIC COMPANY,10000,2025-01-29,entity_simplified
-2025,DLCC,Vistra Energy,Vistra Corporate Services,VISTRA CORPORATE SERVICES COMPANY,7500,2025-12-30,entity_simplified
 2025,RGA,Ameren,Ameren,AMEREN MISSOURI COMPANY,7500,2025-11-11,entity_word_boundary
 2025,RSLC,Emera,Tampa Electric,TAMPA ELECTRIC COMPANY,7500,2025-01-31,entity_simplified
 2025,RGA,Nuclear Energy Institute,Nuclear Energy Institute,NUCLEAR ENERGY INSTITUTE - IN-KIND,6947,2025-03-24,entity_simplified
 2025,DGA,Exelon,Baltimore Gas and Electric,BALTIMORE GAS   ELECTRIC COMPANY,5000,2025-05-21,entity_simplified
-2025,DLCC,Xcel Energy,Xcel Energy,XCEL ENERGY,5000,2025-08-25,entity_exact
 2025,GOPAC,American Electric Power,American Electric Power,AMERICAN ELECTRIC POWER AEP,5000,2025-10-16,entity_simplified
 2025,GOPAC,Duke Energy,Duke Energy,DUKE ENERGY,5000,2025-11-05,entity_exact
 2025,RAGA,NextEra,Florida Power & Light,FLORIDA POWER AND LIGHT COMPANY,5000,2025-10-28,entity_simplified
@@ -285,10 +209,6 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2025,RGA,Vistra Energy,Vistra Energy,VISTRA OPERATIONS COMPANY LLC,500,2025-10-01,entity_word_boundary
 2025,RGA,Vistra Energy,Vistra Energy,VISTRA OPERATIONS COMPANY LLC,500,2025-10-13,entity_word_boundary
 2025,DLCC,American Gas Association,American Gas Association,AMERICAN GAS ASSOCIATION,300,2025-06-27,entity_exact
-2025,DLCC,American Gas Association,American Gas Association,AMERICAN GAS ASSOCIATION,300,2025-09-23,entity_exact
-2025,DLCC,Edison Electric Institute,Edison Electric Institute,EDISON ELECTRIC INSTITUTE,300,2025-07-16,entity_exact
-2025,DLCC,Edison Electric Institute,Edison Electric Institute,EDISON ELECTRIC INSTITUTE,300,2025-09-03,entity_exact
-2025,DLCC,Edison Electric Institute,Edison Electric Institute,EDISON ELECTRIC INSTITUTE,300,2025-10-06,entity_exact
 2024,DGA,Avangrid,Avangrid,AVANGRID INC.,250000,2024-04-19,entity_simplified
 2024,DGA,NextEra,NextEra,NEXTERA ENERGY RESOURCES LLC,250000,2024-01-11,entity_word_boundary
 2024,DGA,NextEra,NextEra,NEXTERA ENERGY RESOURCES LLC,250000,2024-11-06,entity_word_boundary
