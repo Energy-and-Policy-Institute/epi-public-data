@@ -1,4 +1,52 @@
 year,utility_parent_company,org_short,total_contributions_usd,n_contributions
+2026,Dominion Energy,DGA,265000,2
+2026,Avangrid,DGA,250000,1
+2026,Vistra Energy,DGA,250000,1
+2026,Dominion Energy,RGA,200000,2
+2026,Vistra Energy,RSLC,158500,5
+2026,Dominion Energy,RSLC,150000,1
+2026,Southern Company,DGA,150000,1
+2026,American Electric Power,RGA,125000,1
+2026,Dominion Energy,DAGA,125000,1
+2026,NextEra,RAGA,125000,1
+2026,American Electric Power,DGA,100000,1
+2026,Avangrid,RGA,100000,1
+2026,Dominion Energy,GOPAC,100000,1
+2026,Duke Energy,RGA,100000,1
+2026,Edison Electric Institute,RGA,100000,1
+2026,Essential Utilities,RSLC,100000,3
+2026,NextEra,GOPAC,100000,2
+2026,Nuclear Energy Institute,DGA,100000,1
+2026,Southern Company,RSLC,100000,1
+2026,Vistra Energy,DLCC,100000,1
+2026,Pinnacle West Capital,GOPAC,95000,3
+2026,NextEra,DLCC,75000,2
+2026,NextEra,RGA,75000,3
+2026,American Gas Association,RSLC,70000,3
+2026,NRG Energy,RAGA,70000,2
+2026,NRG Energy,DAGA,50000,1
+2026,Nuclear Energy Institute,RSLC,50000,1
+2026,OGE Energy Corp,RAGA,50000,1
+2026,OGE Energy Corp,RGA,50000,1
+2026,Emera,GOPAC,40000,2
+2026,Fortis,DGA,35000,2
+2026,NRG Energy,DLCC,35000,2
+2026,NextEra,RSLC,35000,2
+2026,National Grid,DGA,30000,1
+2026,American Electric Power,RSLC,25000,1
+2026,American Gas Association,DGA,25000,1
+2026,Edison Electric Institute,GOPAC,25000,1
+2026,Fortis,DLCC,25000,1
+2026,NRG Energy,RSLC,25000,1
+2026,NextEra,DGA,25000,1
+2026,Vistra Energy,DAGA,25000,1
+2026,Vistra Energy,RAGA,25000,1
+2026,Duquesne Light Company,DLCC,22000,1
+2026,Edison Electric Institute,RSLC,20000,2
+2026,American Gas Association,DAGA,15000,1
+2026,Southwest Gas,GOPAC,15000,1
+2026,Edison Electric Institute,DGA,10000,1
+2026,NiSource,DGA,10000,1
 2025,Dominion Energy,DGA,825000,6
 2025,Dominion Energy,RAGA,800000,4
 2025,Edison Electric Institute,RGA,510036,2
@@ -19,7 +67,8 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2025,NRG Energy,DGA,165000,4
 2025,Southern Company,DGA,150000,1
 2025,Vistra Energy,RSLC,145950,4
-2025,Vistra Energy,DLCC,120000,2
+2025,Vistra Energy,DLCC,127500,3
+2025,Public Service Enterprise Group,DLCC,125000,1
 2025,NiSource,DGA,115000,5
 2025,Edison Electric Institute,DGA,110000,2
 2025,NextEra,GOPAC,110000,4
@@ -51,6 +100,7 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2025,Alta Gas,DGA,50000,1
 2025,American Electric Power,RSLC,50000,2
 2025,DTE Energy,DGA,50000,1
+2025,Duke Energy,DLCC,50000,1
 2025,Enbridge,RAGA,50000,2
 2025,Essential Utilities,RSLC,50000,2
 2025,NRG Energy,DAGA,50000,2
@@ -66,6 +116,7 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2025,CenterPoint Energy,DGA,30000,2
 2025,Fortis,RGA,30000,2
 2025,Duke Energy,RSLC,27500,2
+2025,Edison Electric Institute,DLCC,25900,4
 2025,Alliant Energy,DAGA,25000,1
 2025,Alliant Energy,RAGA,25000,1
 2025,American Electric Power,RAGA,25000,1
@@ -74,10 +125,11 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2025,CenterPoint Energy,RGA,25000,1
 2025,Duke Energy,RAGA,25000,1
 2025,Edison Electric Institute,DAGA,25000,1
-2025,Edison Electric Institute,DLCC,25000,1
 2025,Edison Electric Institute,RAGA,25000,1
 2025,Emera,GOPAC,25000,2
 2025,Fortis,DGA,25000,1
+2025,Fortis,DLCC,25000,1
+2025,NRG Energy,DLCC,25000,2
 2025,NRG Energy,RSLC,25000,1
 2025,NextEra,RAGA,25000,3
 2025,Nuclear Energy Institute,DAGA,25000,1
@@ -91,7 +143,7 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2025,Edison Electric Institute,RSLC,20000,2
 2025,Emera,RSLC,17500,2
 2025,NextEra,RSLC,17500,3
-2025,American Gas Association,DLCC,15300,2
+2025,American Gas Association,DLCC,15600,3
 2025,American Electric Power,GOPAC,15000,2
 2025,American Gas Association,DAGA,15000,1
 2025,Duquesne Light Company,RSLC,15000,1
@@ -99,7 +151,6 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2025,PPL Corporation,RAGA,15000,1
 2025,Berkshire Hathaway Energy,DGA,10000,1
 2025,Duke Energy,DAGA,10000,1
-2025,NRG Energy,DLCC,10000,1
 2025,NiSource,GOPAC,10000,1
 2025,Portland General Electric,DGA,10000,1
 2025,Puget Sound Energy,GOPAC,10000,1
@@ -107,6 +158,7 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2025,Ameren,RGA,7500,1
 2025,Northwestern Energy,RGA,5000,1
 2025,PPL Corporation,RSLC,5000,1
+2025,Xcel Energy,DLCC,5000,1
 2024,NextEra,DGA,627500,8
 2024,Avangrid,DGA,350000,3
 2024,NextEra,RGA,306838,5
