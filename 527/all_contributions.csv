@@ -233,7 +233,7 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2025,DGA,American Gas Association,American Gas Association,AMERICAN GAS ASSOCIATION,10000,2025-09-23,entity_exact
 2025,DGA,CenterPoint Energy,CenterPoint Energy Service,"CENTERPOINT ENERGY SERVICE COMPANY, LLC",10000,2025-12-17,entity_simplified
 2025,DGA,NiSource,Columbia Gas of Pennsylvania,COLUMBIA GAS OF PENNSYLVANIA,10000,2025-05-09,entity_exact
-2025,DGA,NiSource,Columbia Gas of Virginia,COLUMBIA GAS OF VIRGINIA,10000,2025-10-27,entity_exact
+2025,DGA,Dominion Energy,Columbia Gas of Virginia,COLUMBIA GAS OF VIRGINIA,10000,2025-10-27,entity_exact
 2025,DGA,Exelon,Constellation Energy Group,"CONSTELLATION ENERGY GROUP, INC.",10000,2025-08-11,entity_simplified
 2025,DGA,Edison Electric Institute,Edison Electric Institute,EDISON ELECTRIC INSTITUTE,10000,2025-08-29,entity_exact
 2025,DGA,NextEra,NextEra,NEXTERA ENERGY RESOURCES LLC,10000,2025-04-14,entity_word_boundary
@@ -509,7 +509,7 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2024,RGA,OGE Energy Corp,OGE Energy,OGE ENERGY CORPORATION,2500,2024-11-13,entity_simplified
 2024,RSLC,Fortis,ITC Holdings,ITC HOLDINGS CORP,2500,2024-06-14,entity_exact
 2024,RAGA,NextEra,NextEra,NEXTERA ENERGY RESOURCES LLC,1400,2024-05-22,entity_word_boundary
-2024,RSLC,Dominion Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS CO.,1000,2024-11-07,entity_simplified
+2024,RSLC,Duke Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS CO.,1000,2024-11-07,entity_simplified
 2024,RGA,AES Corporation,AES United States,AES UNITED STATES,500,2024-09-27,entity_exact
 2024,RGA,Alliant Energy,Alliant Energy,ALLIANT ENERGY CORPORATION SERVICES INC,500,2024-09-16,entity_simplified
 2024,RGA,Edison Electric Institute,Edison Electric Institute,EDISON ELECTRIC INSTITUTE,500,2024-09-12,entity_exact
@@ -719,7 +719,7 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2023,RSLC,NextEra,NextEra,NEXTERA ENERGY - NOT A CONTRIB,2000,2023-08-31,entity_word_boundary
 2023,RSLC,NextEra,NextEra,NEXTERA ENERGY - NOT A CONTRIB,1750,2023-09-11,entity_word_boundary
 2023,DAGA,NRG Energy,NRG Energy,"NRG ENERGY, INC.",1000,2023-06-09,entity_simplified
-2023,RSLC,Dominion Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS CO.,1000,2023-09-14,entity_simplified
+2023,RSLC,Duke Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS CO.,1000,2023-09-14,entity_simplified
 2023,RAGA,PPL Corporation,LGandE and KU Services,LGANDE AND KU SERVICES COMPANY,520,2023-02-13,entity_simplified
 2023,RGA,Alliant Energy,Alliant Energy,ALLIANT ENERGY CORPORATION,500,2023-10-30,entity_simplified
 2023,RAGA,American Gas Association,American Gas Association,AMERICAN GAS ASSOCIATION,400,2023-01-20,entity_exact
@@ -1880,7 +1880,7 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2017,RGA,NRG Energy,NRG Energy,"NRG ENERGY, INC.",15000,2017-10-17,entity_simplified
 2017,RGA,TXNM Energy,PNMR Services,PNMR SERVICES CO,15000,2017-04-19,entity_simplified
 2017,RSLC,Exelon,Exelon,"EXELON GENERATION COMPANY, LLC",15000,2017-12-19,entity_word_boundary
-2017,RSLC,Dominion Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS CO.,15000,2017-05-31,entity_simplified
+2017,RSLC,Duke Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS CO.,15000,2017-05-31,entity_simplified
 2017,DLCC,Xcel Energy,Xcel Energy,XCEL ENERGY,12500,2017-02-15,entity_exact
 2017,DLCC,Xcel Energy,Xcel Energy,XCEL ENERGY,12500,2017-03-29,entity_exact
 2017,RSLC,Xcel Energy,Xcel Energy Services,XCEL ENERGY SERVICES INC.,12500,2017-02-15,entity_simplified
@@ -2107,7 +2107,7 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2016,RGA,Evergy,Kansas City Power & Light,KANSAS CITY POWER AND LIGHT,10000,2016-09-30,entity_exact
 2016,RGA,NRG Energy,NRG Energy,NRG ENERGY INC.,10000,2016-05-11,entity_simplified
 2016,RGA,NRG Energy,NRG Energy,NRG ENERGY INC.,10000,2016-10-17,entity_simplified
-2016,RGA,Dominion Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS COMPANY,10000,2016-04-22,entity_simplified
+2016,RGA,Duke Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS COMPANY,10000,2016-04-22,entity_simplified
 2016,RGA,CenterPoint Energy,Vectren,VECTREN CORP EMPLOYEES FEDERAL PAC,10000,2016-12-09,entity_word_boundary
 2016,RGA,Alta Gas,Washington Gas,WASHINGTON GAS,10000,2016-04-01,entity_exact
 2016,RSLC,Atmos Energy,Atmos Energy,ATMOS ENERGY CORPORATION PAC,10000,2016-03-31,entity_simplified
@@ -2259,7 +2259,7 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2015,DLCC,Edison Electric Institute,Edison Electric Institute,EDISON ELECTRIC INSTITUTE,12000,2015-04-01,entity_exact
 2015,RSLC,CenterPoint Energy,CenterPoint Energy Service,"CENTERPOINT ENERGY SERVICE COMPANY, LLC",12000,2015-12-23,entity_simplified
 2015,RSLC,WEC Energy,Integrys,"INTEGRYS BUSINESS SUPPORT, LLC",12000,2015-01-13,entity_simplified
-2015,RSLC,Dominion Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS CO.,11000,2015-07-20,entity_simplified
+2015,RSLC,Duke Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS CO.,11000,2015-07-20,entity_simplified
 2015,DAGA,Alliant Energy,Alliant Energy,ALLIANT ENERGY CORP SERVICES INC,10000,2015-01-01,entity_simplified
 2015,DGA,Dominion Energy,Dominion Resources,DOMINION RESOURCES,10000,2015-09-04,entity_exact
 2015,DGA,Public Service Enterprise Group,PSEG,PSEG SERVICES,10000,2015-05-27,entity_word_boundary
@@ -2278,7 +2278,7 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2015,RGA,NextEra,NextEra,NEXTERA ENERGY RESOURCES LLC,10000,2015-11-13,entity_word_boundary
 2015,RGA,NRG Energy,NRG Energy,NRG ENERGY INC.,10000,2015-07-17,entity_simplified
 2015,RGA,Exelon,Pepco,PEPCO HOLDING COMPANY INC.,10000,2015-06-16,entity_word_boundary
-2015,RGA,Dominion Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS COMPANY,10000,2015-06-09,entity_simplified
+2015,RGA,Duke Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS COMPANY,10000,2015-06-09,entity_simplified
 2015,RSLC,Alliant Energy,Alliant Energy,ALLIANT ENERGY CORPORATION SERVICES INC,10000,2015-04-30,entity_simplified
 2015,RSLC,CMS Energy,Consumers Energy,CONSUMERS ENERGY COMPANY,10000,2015-05-26,entity_simplified
 2015,RSLC,Dominion Energy,Dominion Resources,"DOMINION RESOURCES SERVICES, INC.",10000,2015-10-08,entity_simplified
@@ -2312,7 +2312,7 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2015,GOPAC,Southwest Gas,Southwest Gas,SOUTHWEST GAS CORPORATION,1000,2015-05-04,entity_simplified
 2015,RAGA,Berkshire Hathaway Energy,NV Energy,NV ENERGY,1000,2015-10-19,entity_exact
 2015,RSLC,NextEra,NextEra,NEXTERA ENERGY RESOURCES LLC,749,2015-08-31,entity_word_boundary
-2015,RSLC,Dominion Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS CO.,749,2015-08-31,entity_simplified
+2015,RSLC,Duke Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS CO.,749,2015-08-31,entity_simplified
 2015,RSLC,NextEra,NextEra,NEXTERA ENERGY RESOURCES LLC,634,2015-08-11,entity_word_boundary
 2015,RAGA,NextEra,NextEra,NEXTERA ENERGY RESOURCES LLC,610,2015-10-23,entity_word_boundary
 2015,RSLC,Edison Electric Institute,Edison Electric Institute,EDISON ELECTRIC INSTITUTE,574,2015-10-13,entity_exact
@@ -2486,7 +2486,7 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2014,RGA,IDACORP,Idaho Power,IDAHO POWER COMPANY,10000,2014-10-27,entity_simplified
 2014,RGA,WEC Energy,Integrys,"INTEGRYS BUSINESS SUPPORT, LLC",10000,2014-04-17,entity_simplified
 2014,RGA,Berkshire Hathaway Energy,Nevada Power Company,NEVADA POWER COMPANY,10000,2014-04-24,entity_exact
-2014,RGA,Dominion Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS COMPANY,10000,2014-05-13,entity_simplified
+2014,RGA,Duke Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS COMPANY,10000,2014-05-13,entity_simplified
 2014,RSLC,Duke Energy,Duke Energy,DUKE ENERGY,10000,2014-04-25,entity_exact
 2014,RSLC,Fortis,ITC Holdings,ITC HOLDINGS CORP,10000,2014-05-13,entity_exact
 2014,RGA,NextEra,NextEra,NEXTERA ENERGY RESOURCES LLC- IN-KIND TRAVEL,8933,2014-06-16,entity_word_boundary
@@ -2637,7 +2637,7 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2013,RGA,Black Hills Corporation,Black Hills Corporation,BLACK HILLS CORPORATION PAC,10000,2013-12-13,entity_simplified
 2013,RGA,WEC Energy,Integrys,"INTEGRYS BUSINESS SUPPORT, LLC",10000,2013-03-26,entity_simplified
 2013,RGA,Berkshire Hathaway Energy,MidAmerican Energy,MIDAMERICAN ENERGY HOLDINGS COMPANY,10000,2013-05-07,entity_simplified
-2013,RGA,Dominion Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS COMPANY,10000,2013-07-02,entity_simplified
+2013,RGA,Duke Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS COMPANY,10000,2013-07-02,entity_simplified
 2013,RSLC,CMS Energy,Consumers Energy,CONSUMERS ENERGY COMPANY,10000,2013-06-25,entity_simplified
 2013,RSLC,Dominion Energy,Dominion Resources,"DOMINION RESOURCES SERVICES, INC.",10000,2013-07-03,entity_simplified
 2013,RSLC,Fortis,ITC Holdings,ITC HOLDINGS CORP,10000,2013-08-09,entity_exact
@@ -2780,7 +2780,7 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2012,RGA,CMS Energy,Consumers Energy,CONSUMERS ENERGY COMPANY,10000,2012-03-05,entity_simplified
 2012,RGA,WEC Energy,Integrys,"INTEGRYS BUSINESS SUPPORT, LLC",10000,2012-05-04,entity_simplified
 2012,RGA,Berkshire Hathaway Energy,MidAmerican Energy,MIDAMERICAN ENERGY COMPANY EXECUTIVE PAC,10000,2012-03-19,entity_simplified
-2012,RGA,Dominion Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS COMPANY,10000,2012-05-25,entity_simplified
+2012,RGA,Duke Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS COMPANY,10000,2012-05-25,entity_simplified
 2012,RGA,Public Service Enterprise Group,PSEG Services Corp,PSEG SERVICES CORP.,10000,2012-11-28,entity_simplified
 2012,RGA,WEC Energy,Wisconsin Public Service,WISCONSIN PUBLIC SERVICE CORP.,10000,2012-01-17,entity_simplified
 2012,RSLC,Alliant Energy,Alliant Energy,ALLIANT ENERGY CORPORATION SERVICES INC,10000,2012-12-14,entity_simplified
@@ -2884,7 +2884,7 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2011,DGA,Dominion Energy,Dominion Resources,DOMINION RESOURCES,25000,2011-09-19,entity_exact
 2011,DGA,Duke Energy,Duke Energy,DUKE ENERGY CORPORATION,25000,2011-05-24,entity_simplified
 2011,DGA,El Paso Electric,El Paso Energy Service Company,EL PASO ENERGY SERVICE COMPANY,25000,2011-05-19,entity_simplified
-2011,DGA,Dominion Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS COMPANY,25000,2011-08-10,entity_simplified
+2011,DGA,Duke Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS COMPANY,25000,2011-08-10,entity_simplified
 2011,DGA,Southern Company,Southern Company,SOUTHERN COMPANY,25000,2011-10-06,entity_exact
 2011,DGA,Xcel Energy,Xcel Energy,XCEL ENERGY,25000,2011-06-30,entity_exact
 2011,RGA,AES Corporation,AES Corporation,AES,25000,2011-01-04,entity_word_boundary
@@ -2918,7 +2918,7 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2011,GOPAC,American Gas Association,American Gas Association,AMERICAN GAS ASSOCIATION,10000,2011-09-29,entity_exact
 2011,RGA,NextEra,NextEra,"NEXTERA ENERGY RESOURCES, INC.",10000,2011-01-14,entity_word_boundary
 2011,RGA,Exelon,Pepco,"PEPCO HOLDING COMPANY, INC.",10000,2011-10-28,entity_word_boundary
-2011,RGA,Dominion Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS,10000,2011-06-03,entity_exact
+2011,RGA,Duke Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS,10000,2011-06-03,entity_exact
 2011,RGA,Duke Energy,Progress Energy,PROGRESS ENERGY,10000,2011-02-15,entity_exact
 2011,RGA,Public Service Enterprise Group,PSEG Services Corp,PSEG SERVICES CORP.,10000,2011-12-05,entity_simplified
 2011,RGA,Xcel Energy,Xcel Energy Services,XCEL ENERGY SERVICES INC,10000,2011-07-21,entity_simplified
@@ -3008,7 +3008,7 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2010,RGA,FirstEnergy,FirstEnergy,FIRSTENERGY CORP.,50000,2010-05-17,entity_simplified
 2010,RSLC,Edison Electric Institute,Edison Electric Institute,EDISON ELECTRIC INSTITUTE,50000,2010-04-01,entity_exact
 2010,RSLC,FirstEnergy,FirstEnergy,FIRSTENERGY CORP.,50000,2010-08-12,entity_simplified
-2010,DGA,Dominion Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS COMPANY,45000,2010-03-11,entity_simplified
+2010,DGA,Duke Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS COMPANY,45000,2010-03-11,entity_simplified
 2010,RSLC,Dominion Energy,Dominion Resources,"DOMINION RESOURCES SERVICES, INC.",35000,2010-01-15,entity_simplified
 2010,DAGA,Dominion Energy,Dominion Resources,"DOMINION RESOURCES SERVICES, INC.",25000,2010-01-18,entity_simplified
 2010,DAGA,Edison Electric Institute,Edison Electric Institute,EDISON ELECTRIC INSTITUTE,25000,2010-05-17,entity_exact
@@ -3077,7 +3077,7 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2010,DGA,NextEra,FPL,"FPL ENERGY, LLC. FLORIDA POWER LIGHT COMPANY.",5000,2010-10-27,entity_word_boundary
 2010,DGA,Exelon,Pepco,PEPCO,5000,2010-03-29,entity_word_boundary
 2010,DGA,Exelon,Pepco,PEPCO,5000,2010-04-21,entity_word_boundary
-2010,DGA,Dominion Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS COMPANY,5000,2010-03-11,entity_simplified
+2010,DGA,Duke Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS COMPANY,5000,2010-03-11,entity_simplified
 2010,DLCC,Alliant Energy,Alliant Energy,ALLIANT ENERGY CORPORATION,5000,2010-01-07,entity_simplified
 2010,DLCC,Exelon,Exelon,EXELON GENERATION,5000,2010-03-17,entity_word_boundary
 2010,DLCC,NRG Energy,NRG Energy,NRG ENERGY,5000,2010-11-18,entity_exact
@@ -3184,7 +3184,7 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2009,RGA,Calpine,Calpine,CALPINE CORP.,10000,2009-12-31,entity_word_boundary
 2009,RGA,Calpine,Calpine,CALPINE CORPORATION,10000,2009-03-16,entity_word_boundary
 2009,RGA,Berkshire Hathaway Energy,Nevada Power Company,NEVADA POWER COMPANY,10000,2009-11-20,entity_exact
-2009,RGA,Dominion Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS COMPANY,10000,2009-06-30,entity_simplified
+2009,RGA,Duke Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS COMPANY,10000,2009-06-30,entity_simplified
 2009,RGA,Duke Energy,Progress Energy,"PROGRESS ENERGY, INC.",10000,2009-01-27,entity_simplified
 2009,RGA,Xcel Energy,Xcel Energy,XCEL ENERGY,10000,2009-02-10,entity_exact
 2009,DAGA,Dominion Energy,Dominion Resources,"DOMINION RESOURCES SERVICES, INC.",5000,2009-10-01,entity_simplified
@@ -3204,7 +3204,7 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2009,DAGA,American Electric Power,American Electric Power,AMERICAN ELECTRIC POWER,2500,2009-05-21,entity_exact
 2009,DLCC,PPL Corporation,PPL Electric Utilities Corporation,PPL ELECTRIC UTILITIES CORPORATION,2500,2009-09-24,entity_exact
 2009,RSLC,Dominion Energy,Dominion Resources,"DOMINION RESOURCES SERVICES, INC.",2500,2009-06-04,entity_simplified
-2009,RSLC,Dominion Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS CO.,2500,2009-08-14,entity_simplified
+2009,RSLC,Duke Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS CO.,2500,2009-08-14,entity_simplified
 2009,DGA,Consolidated Edison,Consolidated Edison,"CONSOLIDATED EDISON, INC. EMPLOYEES PAC",2000,2009-09-29,entity_simplified
 2009,DGA,Edison Electric Institute,Edison Electric Institute,EDISON ELECTRIC INSTITUTE EEI,1585,2009-12-11,entity_simplified
 2009,RSLC,Southern Company,AGL,AGL RESOURCES,1000,2009-08-14,entity_word_boundary
@@ -3277,7 +3277,7 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2008,DLCC,DTE Energy,DTE Energy,DTE ENERGY,10000,2008-10-27,entity_exact
 2008,DLCC,Exelon,Exelon,EXELON CORPORATION,10000,2008-10-30,entity_word_boundary
 2008,RGA,Calpine,Calpine,CALPINE CORPORATION,10000,2008-03-11,entity_word_boundary
-2008,RGA,Dominion Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS COMPANY,10000,2008-07-29,entity_simplified
+2008,RGA,Duke Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS COMPANY,10000,2008-07-29,entity_simplified
 2008,RGA,Duke Energy,Progress Energy,PROGRESS ENERGY,10000,2008-01-29,entity_exact
 2008,RGA,Public Service Enterprise Group,PSEG,PSEG,10000,2008-08-04,entity_word_boundary
 2008,RSLC,American Gas Association,American Gas Association,AMERICAN GAS ASSOCIATION,10000,2008-05-16,entity_exact
@@ -3411,7 +3411,7 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2006,RGA,Pinnacle West Capital,Pinnacle West,PINNACLE WEST CAPITAL CORPORATION,10000,2006-09-19,entity_simplified
 2006,RGA,Duke Energy,Progress Energy,"PROGRESS ENERGY, INC.",10000,2006-03-16,entity_simplified
 2006,RGA,Xcel Energy,Xcel Energy Services,XCEL ENERGY SERVICES INC.,10000,2006-04-27,entity_simplified
-2006,DLCC,Dominion Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS CO.,8500,2006-08-24,entity_simplified
+2006,DLCC,Duke Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS CO.,8500,2006-08-24,entity_simplified
 2006,DGA,Nuclear Energy Institute,Nuclear Energy Institute,NUCLEAR ENERGY INSTITUTE,5000,2006-03-07,entity_exact
 2006,DGA,Xcel Energy,Xcel Energy,XCEL ENERGY,5000,2006-10-31,entity_exact
 2006,GOPAC,American Gas Association,American Gas Association,AMERICAN GAS ASSOCIATION,5000,2006-01-03,entity_exact
