@@ -2,8 +2,8 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2026,Dominion Energy,DGA,265000,2
 2026,Avangrid,DGA,250000,1
 2026,Vistra Energy,DGA,250000,1
-2026,Dominion Energy,RGA,200000,2
 2026,Vistra Energy,RSLC,158500,5
+2026,Dominion Energy,RGA,150000,1
 2026,Dominion Energy,RSLC,150000,1
 2026,Southern Company,DGA,150000,1
 2026,American Electric Power,RGA,125000,1
@@ -91,8 +91,8 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2025,PG&E Corp,DAGA,71656,2
 2025,American Gas Association,RSLC,70000,3
 2025,Public Service Enterprise Group,RSLC,65000,2
-2025,Exelon,DGA,60000,4
 2025,AES Corporation,RGA,55500,3
+2025,Constellation,DGA,55000,3
 2025,OGE Energy Corp,RGA,53000,3
 2025,NextEra,DAGA,52500,2
 2025,Alliant Energy,DGA,50000,1
@@ -156,6 +156,7 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2025,Puget Sound Energy,GOPAC,10000,1
 2025,Southwest Gas,DGA,10000,1
 2025,Ameren,RGA,7500,1
+2025,Exelon,DGA,5000,1
 2025,Northwestern Energy,RGA,5000,1
 2025,PPL Corporation,RSLC,5000,1
 2025,Xcel Energy,DLCC,5000,1
@@ -177,7 +178,6 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2024,Duke Energy,RSLC,156000,3
 2024,Avangrid,RSLC,155000,3
 2024,Dominion Energy,DGA,150000,2
-2024,Exelon,DGA,150000,3
 2024,NextEra,DLCC,150000,2
 2024,Calpine,RSLC,140000,4
 2024,Alliant Energy,RSLC,125000,2
@@ -194,6 +194,7 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2024,Dominion Energy,DLCC,100000,1
 2024,Dominion Energy,RGA,100000,1
 2024,Duke Energy,RGA,100000,1
+2024,Exelon,DGA,100000,1
 2024,NRG Energy,RGA,100000,1
 2024,Nuclear Energy Institute,DGA,100000,1
 2024,Nuclear Energy Institute,RGA,100000,1
@@ -217,6 +218,7 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2024,Alliant Energy,DGA,50000,1
 2024,Alta Gas,DGA,50000,1
 2024,Avangrid,RGA,50000,2
+2024,Constellation,DGA,50000,2
 2024,Duke Energy,DLCC,50000,1
 2024,Duke Energy,RAGA,50000,2
 2024,Entergy,RGA,50000,1
@@ -287,7 +289,6 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2023,Dominion Energy,RGA,250000,1
 2023,Southern Company,RGA,225000,3
 2023,Duke Energy,GOPAC,220000,3
-2023,Exelon,DGA,212500,6
 2023,Berkshire Hathaway Energy,RGA,200000,2
 2023,Dominion Energy,GOPAC,200000,2
 2023,Public Service Enterprise Group,DGA,200000,1
@@ -297,6 +298,7 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2023,Vistra Energy,DGA,142500,4
 2023,Alliant Energy,RSLC,135000,4
 2023,Duke Energy,DGA,135000,2
+2023,Exelon,DGA,130000,3
 2023,CenterPoint Energy,RGA,125000,4
 2023,Edison Electric Institute,DGA,125000,2
 2023,Southern Company,RAGA,125000,1
@@ -314,6 +316,7 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2023,Nuclear Energy Institute,RGA,100000,1
 2023,Vistra Energy,RGA,100000,1
 2023,Vistra Energy,RSLC,100000,5
+2023,Constellation,DGA,82500,3
 2023,Southern Company,DAGA,80000,3
 2023,NRG Energy,DAGA,76000,3
 2023,Berkshire Hathaway Energy,RAGA,75000,2
@@ -389,11 +392,11 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2022,Duke Energy,RSLC,302500,5
 2022,Duke Energy,GOPAC,280000,4
 2022,Dominion Energy,RGA,250000,1
-2022,Exelon,DGA,225000,3
 2022,Duke Energy,RGA,220900,8
 2022,Dominion Energy,RSLC,205500,4
 2022,Berkshire Hathaway Energy,RGA,200450,5
 2022,Alliant Energy,DGA,200000,2
+2022,Exelon,DGA,200000,2
 2022,Public Service Enterprise Group,DGA,200000,1
 2022,Xcel Energy,DGA,192000,5
 2022,NRG Energy,DGA,160000,5
@@ -462,6 +465,7 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2022,American Gas Association,DGA,25000,1
 2022,CMS Energy,RSLC,25000,1
 2022,CenterPoint Energy,RGA,25000,1
+2022,Constellation,DGA,25000,1
 2022,DTE Energy,DGA,25000,1
 2022,Edison Electric Institute,DAGA,25000,1
 2022,Edison Electric Institute,GOPAC,25000,1

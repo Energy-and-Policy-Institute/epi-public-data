@@ -24,7 +24,6 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2026,GOPAC,NextEra,Florida Power & Light,FLORIDA POWER AND LIGHT COMPANY,50000,2026-01-28,entity_simplified
 2026,RAGA,NRG Energy,NRG Energy,NRG ENERGY INC,50000,2026-02-05,entity_simplified
 2026,RAGA,OGE Energy Corp,OGE Energy,OGE ENERGY CORP.,50000,2026-03-05,entity_simplified
-2026,RGA,Dominion Energy,Hope Gas Inc,HOPE GAS INC,50000,2026-02-18,entity_exact
 2026,RGA,OGE Energy Corp,OGE Energy,OGE ENERGY CORPORATION,50000,2026-03-27,entity_simplified
 2026,RSLC,American Gas Association,American Gas Association,AMERICAN GAS ASSOCIATION,50000,2026-02-27,entity_exact
 2026,RSLC,Nuclear Energy Institute,Nuclear Energy Institute,NUCLEAR ENERGY INSTITUTE,50000,2026-01-15,entity_exact
@@ -167,7 +166,7 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2025,DGA,Pinnacle West Capital,Arizona Public Service,ARIZONA PUBLIC SERVICE,25000,2025-07-08,entity_exact
 2025,DGA,Avangrid,Avangrid,AVANGRID INC.,25000,2025-05-27,entity_simplified
 2025,DGA,CMS Energy,CMS Energy,CMS ENERGY CORPORATION,25000,2025-06-30,entity_simplified
-2025,DGA,Exelon,Constellation Energy Group,"CONSTELLATION ENERGY GROUP, INC.",25000,2025-10-13,entity_simplified
+2025,DGA,Constellation,Constellation Energy (post spinoff 2022),"CONSTELLATION ENERGY GROUP, INC.",25000,2025-10-13,entity_simplified
 2025,DGA,Fortis,ITC Holdings,ITC HOLDINGS CORPORATION,25000,2025-06-02,entity_simplified
 2025,DGA,NextEra,NextEra,NEXTERA ENERGY POINT BEACH LLC,25000,2025-04-28,entity_word_boundary
 2025,DGA,NiSource,Nisource Corporate Services,NISOURCE CORPORATE SERVICES,25000,2025-12-12,entity_exact
@@ -207,7 +206,7 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2025,RSLC,Vistra Energy,Vistra Energy,VISTRA OPERATIONS COMPANY LLC,25000,2025-05-23,entity_word_boundary
 2025,DAGA,PG&E Corp,PACIFIC GAS AND ELECTRIC COMPANY,PACIFIC GAS AND ELECTRIC COMPANY IN-KIND,21656,2025-05-12,entity_simplified
 2025,DGA,CenterPoint Energy,CenterPoint Energy Service,"CENTERPOINT ENERGY SERVICE COMPANY, LLC",20000,2025-08-28,entity_simplified
-2025,DGA,Exelon,Constellation Energy Group,"CONSTELLATION ENERGY GROUP, INC.",20000,2025-05-12,entity_simplified
+2025,DGA,Constellation,Constellation Energy (post spinoff 2022),"CONSTELLATION ENERGY GROUP, INC.",20000,2025-05-12,entity_simplified
 2025,DGA,NiSource,Nisource Corporate Services,NISOURCE CORPORATE SERVICES,20000,2025-01-15,entity_exact
 2025,DLCC,Vistra Energy,Vistra Corporate Services,VISTRA CORPORATE SERVICES COMPANY,20000,2025-03-05,entity_simplified
 2025,RSLC,Calpine,Calpine,CALPINE CORPORATION,20000,2025-03-25,entity_word_boundary
@@ -234,7 +233,7 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2025,DGA,CenterPoint Energy,CenterPoint Energy Service,"CENTERPOINT ENERGY SERVICE COMPANY, LLC",10000,2025-12-17,entity_simplified
 2025,DGA,NiSource,Columbia Gas of Pennsylvania,COLUMBIA GAS OF PENNSYLVANIA,10000,2025-05-09,entity_exact
 2025,DGA,NiSource,Columbia Gas of Virginia,COLUMBIA GAS OF VIRGINIA,10000,2025-10-27,entity_exact
-2025,DGA,Exelon,Constellation Energy Group,"CONSTELLATION ENERGY GROUP, INC.",10000,2025-08-11,entity_simplified
+2025,DGA,Constellation,Constellation Energy (post spinoff 2022),"CONSTELLATION ENERGY GROUP, INC.",10000,2025-08-11,entity_simplified
 2025,DGA,Edison Electric Institute,Edison Electric Institute,EDISON ELECTRIC INSTITUTE,10000,2025-08-29,entity_exact
 2025,DGA,NextEra,NextEra,NEXTERA ENERGY RESOURCES LLC,10000,2025-04-14,entity_word_boundary
 2025,DGA,NextEra,NextEra,NEXTERA ENERGY RESOURCES LLC,10000,2025-07-21,entity_word_boundary
@@ -387,8 +386,8 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2024,DGA,Berkshire Hathaway Energy,Berkshire Hathaway Energy,BERKSHIRE HATHAWAY ENERGY,25000,2024-10-04,entity_exact
 2024,DGA,NiSource,Columbia Gas of Pennsylvania,COLUMBIA GAS OF PENNSYLVANIA,25000,2024-06-28,entity_exact
 2024,DGA,NiSource,Columbia Gas of Pennsylvania,COLUMBIA GAS OF PENNSYLVANIA,25000,2024-08-26,entity_exact
-2024,DGA,Exelon,Constellation Energy Group,"CONSTELLATION ENERGY GROUP, INC.",25000,2024-09-26,entity_simplified
-2024,DGA,Exelon,Constellation Energy Group,"CONSTELLATION ENERGY GROUP, INC.",25000,2024-10-04,entity_simplified
+2024,DGA,Constellation,Constellation Energy (post spinoff 2022),"CONSTELLATION ENERGY GROUP, INC.",25000,2024-09-26,entity_simplified
+2024,DGA,Constellation,Constellation Energy (post spinoff 2022),"CONSTELLATION ENERGY GROUP, INC.",25000,2024-10-04,entity_simplified
 2024,DGA,Duke Energy,Duke Energy,DUKE ENERGY CORPORATION,25000,2024-04-23,entity_simplified
 2024,DGA,National Grid,National Grid,NATIONAL GRID USA,25000,2024-09-04,entity_simplified
 2024,DGA,NextEra,NextEra,NEXTERA ENERGY RESOURCES LLC,25000,2024-05-06,entity_word_boundary
@@ -573,7 +572,7 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2023,DAGA,PG&E Corp,PACIFIC GAS AND ELECTRIC COMPANY,PACIFIC GAS AND ELECTRIC COMPANY,50000,2023-09-12,entity_exact
 2023,DAGA,Southern Company,Southern Company Services,"SOUTHERN COMPANY SERVICES, INC.",50000,2023-11-27,entity_simplified
 2023,DGA,AES Corporation,AES Corporation,AES CORPORATION,50000,2023-07-24,entity_exact
-2023,DGA,Exelon,Constellation Energy Group,"CONSTELLATION ENERGY GROUP, INC.",50000,2023-05-16,entity_simplified
+2023,DGA,Constellation,Constellation Energy (post spinoff 2022),"CONSTELLATION ENERGY GROUP, INC.",50000,2023-05-16,entity_simplified
 2023,DGA,Dominion Energy,Dominion Energy Services,DOMINION ENERGY SERVICES INC.,50000,2023-07-11,entity_simplified
 2023,DGA,Fortis,ITC Holdings,ITC HOLDINGS CORPORATION,50000,2023-01-03,entity_simplified
 2023,DGA,NextEra,NextEra,NEXTERA ENERGY POINT BEACH LLC,50000,2023-05-03,entity_word_boundary
@@ -654,7 +653,7 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2023,RSLC,Vistra Energy,Vistra Corporate Services,"VISTRA CORPORATE SERVICES COMPANY, AS AGENT",25000,2023-02-08,entity_simplified
 2023,RSLC,Vistra Energy,Vistra Corporate Services,"VISTRA CORPORATE SERVICES COMPANY, AS AGENT",25000,2023-04-12,entity_simplified
 2023,RSLC,Vistra Energy,Vistra Corporate Services,"VISTRA CORPORATE SERVICES COMPANY, AS AGENT",25000,2023-12-14,entity_simplified
-2023,DGA,Exelon,Constellation Energy Group,"CONSTELLATION ENERGY GROUP, INC.",22500,2023-05-16,entity_simplified
+2023,DGA,Constellation,Constellation Energy (post spinoff 2022),"CONSTELLATION ENERGY GROUP, INC.",22500,2023-05-16,entity_simplified
 2023,DLCC,NextEra,NextEra,NEXTERA ENERGY RESOURCES,20000,2023-01-09,entity_word_boundary
 2023,GOPAC,Duke Energy,Duke Energy,DUKE ENERGY,20000,2023-06-20,entity_exact
 2023,RGA,American Gas Association,American Gas Association,AMERICAN GAS ASSOCIATION,20000,2023-03-15,entity_exact
@@ -670,7 +669,7 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2023,RSLC,Xcel Energy,Xcel Energy Services,XCEL ENERGY SERVICES INC.,15000,2023-04-25,entity_simplified
 2023,RSLC,Fortis,ITC Holdings,ITC HOLDINGS CORP,12500,2023-10-27,entity_exact
 2023,DGA,Exelon,Baltimore Gas and Electric,BALTIMORE GAS   ELECTRIC COMPANY,10000,2023-05-22,entity_simplified
-2023,DGA,Exelon,Constellation Energy Group,"CONSTELLATION ENERGY GROUP, INC.",10000,2023-10-04,entity_simplified
+2023,DGA,Constellation,Constellation Energy (post spinoff 2022),"CONSTELLATION ENERGY GROUP, INC.",10000,2023-10-04,entity_simplified
 2023,DGA,Exelon,Pepco,PEPCO HOLDINGS,10000,2023-05-30,entity_word_boundary
 2023,DGA,Southwest Gas,Southwest Gas,SOUTHWEST GAS,10000,2023-10-30,entity_exact
 2023,DGA,Vistra Energy,Vistra Corporate Services,VISTRA CORPORATE SERVICES CO,10000,2023-04-05,entity_simplified
@@ -818,7 +817,7 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2022,DGA,American Gas Association,American Gas Association,AMERICAN GAS ASSOCIATION,25000,2022-05-23,entity_exact
 2022,DGA,CMS Energy,CMS Energy,CMS ENERGY CORPORATION,25000,2022-01-11,entity_simplified
 2022,DGA,CMS Energy,CMS Energy,CMS ENERGY CORPORATION,25000,2022-06-21,entity_simplified
-2022,DGA,Exelon,Constellation Energy Group,"CONSTELLATION ENERGY GROUP, INC.",25000,2022-06-15,entity_simplified
+2022,DGA,Constellation,Constellation Energy (post spinoff 2022),"CONSTELLATION ENERGY GROUP, INC.",25000,2022-06-15,entity_simplified
 2022,DGA,DTE Energy,DTE Energy,DTE ENERGY,25000,2022-03-25,entity_exact
 2022,DGA,NRG Energy,NRG Energy,NRG ENERGY INC.,25000,2022-10-04,entity_simplified
 2022,DGA,NRG Energy,NRG Energy,NRG ENERGY INC.,25000,2022-10-27,entity_simplified
