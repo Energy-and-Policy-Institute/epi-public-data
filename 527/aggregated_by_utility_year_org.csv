@@ -47,7 +47,7 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2026,Southwest Gas,GOPAC,15000,1
 2026,Edison Electric Institute,DGA,10000,1
 2026,NiSource,DGA,10000,1
-2025,Dominion Energy,DGA,835000,7
+2025,Dominion Energy,DGA,825000,6
 2025,Dominion Energy,RAGA,800000,4
 2025,Edison Electric Institute,RGA,510036,2
 2025,NextEra,RGA,410000,7
@@ -69,10 +69,10 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2025,Vistra Energy,RSLC,145950,4
 2025,Vistra Energy,DLCC,127500,3
 2025,Public Service Enterprise Group,DLCC,125000,1
+2025,NiSource,DGA,115000,5
 2025,Edison Electric Institute,DGA,110000,2
 2025,NextEra,GOPAC,110000,4
 2025,Nuclear Energy Institute,RGA,106947,2
-2025,NiSource,DGA,105000,4
 2025,Berkshire Hathaway Energy,RGA,100500,3
 2025,American Electric Power,DGA,100000,1
 2025,American Gas Association,RAGA,100000,2
@@ -1471,12 +1471,10 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2011,Alliant Energy,RGA,25450,2
 2011,Dominion Energy,RGA,25450,2
 2011,Edison Electric Institute,RGA,25450,2
-2011,El Paso Electric,RGA,25450,2
 2011,AES Corporation,DGA,25250,2
 2011,Avista Corporation,DGA,25000,1
 2011,Berkshire Hathaway Energy,RGA,25000,1
 2011,Edison Electric Institute,DAGA,25000,1
-2011,El Paso Electric,DGA,25000,1
 2011,Nuclear Energy Institute,DAGA,25000,1
 2011,Southern Company,RSLC,25000,2
 2011,Xcel Energy,DGA,25000,1
@@ -1516,7 +1514,6 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2010,Edison Electric Institute,DGA,50093,5
 2010,Berkshire Hathaway Energy,DGA,50000,2
 2010,Edison Electric Institute,RSLC,50000,1
-2010,El Paso Electric,DGA,50000,1
 2010,Exelon,RGA,50000,1
 2010,FirstEnergy,RSLC,50000,1
 2010,Exelon,DGA,47500,5
@@ -1670,7 +1667,6 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2008,Xcel Energy,DGA,6000,1
 2008,Nuclear Energy Institute,RSLC,5299,2
 2008,DTE Energy,RSLC,5000,1
-2008,El Paso Electric,RGA,5000,1
 2008,Puget Sound Energy,RSLC,5000,1
 2008,Salt River Project,DAGA,5000,1
 2008,Algonquin,DGA,4000,2

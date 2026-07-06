@@ -233,7 +233,7 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2025,DGA,American Gas Association,American Gas Association,AMERICAN GAS ASSOCIATION,10000,2025-09-23,entity_exact
 2025,DGA,CenterPoint Energy,CenterPoint Energy Service,"CENTERPOINT ENERGY SERVICE COMPANY, LLC",10000,2025-12-17,entity_simplified
 2025,DGA,NiSource,Columbia Gas of Pennsylvania,COLUMBIA GAS OF PENNSYLVANIA,10000,2025-05-09,entity_exact
-2025,DGA,Dominion Energy,Columbia Gas of Virginia,COLUMBIA GAS OF VIRGINIA,10000,2025-10-27,entity_exact
+2025,DGA,NiSource,Columbia Gas of Virginia,COLUMBIA GAS OF VIRGINIA,10000,2025-10-27,entity_exact
 2025,DGA,Exelon,Constellation Energy Group,"CONSTELLATION ENERGY GROUP, INC.",10000,2025-08-11,entity_simplified
 2025,DGA,Edison Electric Institute,Edison Electric Institute,EDISON ELECTRIC INSTITUTE,10000,2025-08-29,entity_exact
 2025,DGA,NextEra,NextEra,NEXTERA ENERGY RESOURCES LLC,10000,2025-04-14,entity_word_boundary
@@ -2883,7 +2883,6 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2011,DGA,Avista Corporation,Avista Corp,AVISTA CORP,25000,2011-11-03,entity_exact
 2011,DGA,Dominion Energy,Dominion Resources,DOMINION RESOURCES,25000,2011-09-19,entity_exact
 2011,DGA,Duke Energy,Duke Energy,DUKE ENERGY CORPORATION,25000,2011-05-24,entity_simplified
-2011,DGA,El Paso Electric,El Paso Energy Service Company,EL PASO ENERGY SERVICE COMPANY,25000,2011-05-19,entity_simplified
 2011,DGA,Duke Energy,Piedmont Natural Gas,PIEDMONT NATURAL GAS COMPANY,25000,2011-08-10,entity_simplified
 2011,DGA,Southern Company,Southern Company,SOUTHERN COMPANY,25000,2011-10-06,entity_exact
 2011,DGA,Xcel Energy,Xcel Energy,XCEL ENERGY,25000,2011-06-30,entity_exact
@@ -2896,7 +2895,6 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2011,RGA,Duke Energy,Duke Energy,DUKE ENERGY,25000,2011-06-13,entity_exact
 2011,RGA,Duke Energy,Duke Energy,DUKE ENERGY,25000,2011-12-28,entity_exact
 2011,RGA,Edison Electric Institute,Edison Electric Institute,EDISON ELECTRIC INSTITUTE,25000,2011-06-27,entity_exact
-2011,RGA,El Paso Electric,El Paso Energy Service Company,EL PASO ENERGY SERVICE COMPANY,25000,2011-10-26,entity_simplified
 2011,RGA,Berkshire Hathaway Energy,Nevada Power Company,NEVADA POWER COMPANY,25000,2011-05-10,entity_exact
 2011,RGA,Duke Energy,Progress Energy,PROGRESS ENERGY,25000,2011-11-16,entity_exact
 2011,DGA,American Gas Association,American Gas Association,AMERICAN GAS ASSOCIATION AGA,20000,2011-02-15,entity_simplified
@@ -2948,7 +2946,6 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2011,RGA,Dominion Energy,Dominion Resources,"DOMINION RESOURCES SERVICES, INC.",450,2011-11-11,entity_simplified
 2011,RGA,Duke Energy,Duke Energy,DUKE ENERGY,450,2011-11-16,entity_exact
 2011,RGA,Edison Electric Institute,Edison Electric Institute,EDISON ELECTRIC INSTITUTE,450,2011-11-16,entity_exact
-2011,RGA,El Paso Electric,El Paso Energy Service Company,EL PASO ENERGY SERVICE COMPANY,450,2011-11-01,entity_simplified
 2011,RGA,Nuclear Energy Institute,Nuclear Energy Institute,NUCLEAR ENERGY INSTITUTE,450,2011-11-16,entity_exact
 2011,RGA,Exelon,Pepco,"PEPCO HOLDING COMPANY, INC.",450,2011-11-09,entity_word_boundary
 2011,RGA,Exelon,Pepco,"PEPCO HOLDING COMPANY, INC.",450,2011-11-16,entity_word_boundary
@@ -2995,7 +2992,6 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2010,DGA,Duke Energy,Duke Energy,DUKE ENERGY CORPORATION,50000,2010-02-26,entity_simplified
 2010,DGA,Duke Energy,Duke Energy,DUKE ENERGY CORPORATION,50000,2010-05-19,entity_simplified
 2010,DGA,Duke Energy,Duke Energy,DUKE ENERGY CORPORATION,50000,2010-09-30,entity_simplified
-2010,DGA,El Paso Electric,El Paso Energy Service Company,EL PASO ENERGY SERVICE COMPANY,50000,2010-06-10,entity_simplified
 2010,DGA,Duke Energy,Progress Energy,"PROGRESS ENERGY, INC",50000,2010-04-14,entity_simplified
 2010,RGA,FirstEnergy,Allegheny Energy,ALLEGHENY ENERGY,50000,2010-09-14,entity_exact
 2010,RGA,American Electric Power,American Electric Power,AMERICAN ELECTRIC POWER,50000,2010-03-15,entity_exact
@@ -3284,7 +3280,6 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2008,DGA,Xcel Energy,Xcel Energy,XCEL ENERGY,6000,2008-08-07,entity_exact
 2008,DAGA,Salt River Project,Salt River Project,SALT RIVER PROJECT,5000,2008-04-22,entity_exact
 2008,DGA,Dominion Energy,Dominion Resources,DOMINION RESOURCES,5000,2008-03-25,entity_exact
-2008,RGA,El Paso Electric,El Paso Energy Service Company,EL PASO ENERGY SERVICE COMPANY,5000,2008-04-08,entity_simplified
 2008,RGA,Berkshire Hathaway Energy,Nevada Power Company,NEVADA POWER COMPANY,5000,2008-10-14,entity_exact
 2008,RGA,Berkshire Hathaway Energy,Pacificorp,PACIFICORP,5000,2008-10-06,entity_exact
 2008,RGA,Southern Company,Southern Company Services,"SOUTHERN COMPANY SERVICES, INC.",5000,2008-08-22,entity_simplified
