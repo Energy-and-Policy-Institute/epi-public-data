@@ -1,52 +1,85 @@
 year,utility_parent_company,org_short,total_contributions_usd,n_contributions
-2026,Dominion Energy,DGA,265000,2
-2026,Avangrid,DGA,250000,1
-2026,Vistra Energy,DGA,250000,1
-2026,Vistra Energy,RSLC,158500,5
+2026,NextEra,RSLC,370000,6
+2026,Dominion Energy,RSLC,300000,2
+2026,Dominion Energy,DGA,290000,3
+2026,Avangrid,DGA,285000,3
+2026,Vistra Energy,DGA,260000,2
+2026,Dominion Energy,RAGA,250000,1
+2026,Vistra Energy,RGA,250000,1
+2026,Vistra Energy,RSLC,181000,6
+2026,NextEra,DGA,165000,5
+2026,Dominion Energy,GOPAC,150000,2
 2026,Dominion Energy,RGA,150000,1
-2026,Dominion Energy,RSLC,150000,1
 2026,Southern Company,DGA,150000,1
+2026,NextEra,GOPAC,141000,5
+2026,NextEra,RAGA,130000,2
 2026,American Electric Power,RGA,125000,1
 2026,Dominion Energy,DAGA,125000,1
-2026,NextEra,RAGA,125000,1
+2026,Southern Company,RSLC,125000,2
+2026,NextEra,RGA,110000,6
 2026,American Electric Power,DGA,100000,1
+2026,Avangrid,DLCC,100000,1
 2026,Avangrid,RGA,100000,1
-2026,Dominion Energy,GOPAC,100000,1
+2026,Avangrid,RSLC,100000,1
 2026,Duke Energy,RGA,100000,1
 2026,Edison Electric Institute,RGA,100000,1
 2026,Essential Utilities,RSLC,100000,3
-2026,NextEra,GOPAC,100000,2
 2026,Nuclear Energy Institute,DGA,100000,1
-2026,Southern Company,RSLC,100000,1
+2026,Nuclear Energy Institute,RGA,100000,1
 2026,Vistra Energy,DLCC,100000,1
 2026,Pinnacle West Capital,GOPAC,95000,3
+2026,NRG Energy,RAGA,90000,4
+2026,Xcel Energy,DGA,80000,3
 2026,NextEra,DLCC,75000,2
-2026,NextEra,RGA,75000,3
 2026,American Gas Association,RSLC,70000,3
-2026,NRG Energy,RAGA,70000,2
+2026,Fortis,DGA,70000,4
+2026,American Gas Association,RGA,50000,2
+2026,Exelon,DGA,50000,1
+2026,FirstEnergy,DGA,50000,1
 2026,NRG Energy,DAGA,50000,1
+2026,NRG Energy,DGA,50000,1
+2026,Nuclear Energy Institute,DLCC,50000,1
 2026,Nuclear Energy Institute,RSLC,50000,1
 2026,OGE Energy Corp,RAGA,50000,1
 2026,OGE Energy Corp,RGA,50000,1
+2026,Xcel Energy,RGA,50000,1
+2026,Southern Company,DAGA,45675,1
+2026,National Grid,DGA,45000,2
+2026,Edison Electric Institute,RSLC,40000,4
 2026,Emera,GOPAC,40000,2
-2026,Fortis,DGA,35000,2
 2026,NRG Energy,DLCC,35000,2
-2026,NextEra,RSLC,35000,2
-2026,National Grid,DGA,30000,1
+2026,Xcel Energy,GOPAC,26000,2
+2026,Edison Electric Institute,DLCC,25300,2
+2026,Alliant Energy,DAGA,25000,1
+2026,Alliant Energy,RAGA,25000,1
+2026,American Electric Power,RAGA,25000,1
 2026,American Electric Power,RSLC,25000,1
 2026,American Gas Association,DGA,25000,1
+2026,Atmos Energy,RGA,25000,1
+2026,Edison Electric Institute,DAGA,25000,1
 2026,Edison Electric Institute,GOPAC,25000,1
 2026,Fortis,DLCC,25000,1
 2026,NRG Energy,RSLC,25000,1
-2026,NextEra,DGA,25000,1
+2026,Pinnacle West Capital,RSLC,25000,1
+2026,UGI Corp,DGA,25000,1
 2026,Vistra Energy,DAGA,25000,1
 2026,Vistra Energy,RAGA,25000,1
 2026,Duquesne Light Company,DLCC,22000,1
-2026,Edison Electric Institute,RSLC,20000,2
+2026,Constellation,RGA,20000,1
+2026,Duquesne Light Company,RSLC,20000,1
+2026,Nuclear Energy Institute,DAGA,20000,1
 2026,American Gas Association,DAGA,15000,1
+2026,NiSource,DGA,15000,2
 2026,Southwest Gas,GOPAC,15000,1
 2026,Edison Electric Institute,DGA,10000,1
-2026,NiSource,DGA,10000,1
+2026,Emera,RSLC,10000,1
+2026,Southwest Gas,DGA,10000,1
+2026,AES Corporation,DGA,5000,1
+2026,Duke Energy,DGA,5000,1
+2026,Southwest Gas,RSLC,5000,1
+2026,Xcel Energy,RSLC,5000,1
+2026,PG&E Corp,DAGA,4750,1
+2026,Duke Energy,RSLC,2500,1
 2025,Dominion Energy,DGA,825000,6
 2025,Dominion Energy,RAGA,800000,4
 2025,Edison Electric Institute,RGA,510036,2
