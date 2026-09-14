@@ -69,6 +69,7 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2026,Duquesne Light Company,RSLC,20000,1
 2026,Nuclear Energy Institute,DAGA,20000,1
 2026,American Gas Association,DAGA,15000,1
+2026,Emera,RAGA,15000,1
 2026,NiSource,DGA,15000,2
 2026,Southwest Gas,GOPAC,15000,1
 2026,Edison Electric Institute,DGA,10000,1
@@ -180,6 +181,7 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2025,American Electric Power,GOPAC,15000,2
 2025,American Gas Association,DAGA,15000,1
 2025,Duquesne Light Company,RSLC,15000,1
+2025,Emera,RAGA,15000,1
 2025,National Rural Electric Cooperative Association,DAGA,15000,1
 2025,PPL Corporation,RAGA,15000,1
 2025,Berkshire Hathaway Energy,DGA,10000,1
@@ -844,6 +846,7 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2019,Fortis,DLCC,1000,4
 2019,Pinnacle West Capital,RAGA,700,2
 2019,PPL Corporation,RSLC,633,1
+2019,Consumer Energy Alliance,RSLC,275,1
 2018,NextEra,RGA,1200000,3
 2018,NextEra,DGA,545000,6
 2018,FirstEnergy,RGA,530000,3

@@ -99,6 +99,7 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2026,DGA,NextEra,NextEra,NEXTERA ENERGY POINT BEACH LLC,15000,2026-06-22,entity_word_boundary
 2026,GOPAC,Southwest Gas,Southwest Gas,SOUTHWEST GAS CORPORATION,15000,2026-01-06,entity_simplified
 2026,GOPAC,Emera,Tampa Electric,TECO ENERGY/ TAMPA ELECTRIC COMPANY,15000,2026-01-09,entity_simplified
+2026,RAGA,Emera,TECO Energy,TECO HOLDINGS INC,15000,2026-01-08,entity_simplified
 2026,RGA,NextEra,Florida Power & Light,FLORIDA POWER AND LIGHT COMPANY,15000,2026-04-16,entity_simplified
 2026,RSLC,American Gas Association,American Gas Association,AMERICAN GAS ASSOCIATION,15000,2026-02-27,entity_exact
 2026,RSLC,Edison Electric Institute,Edison Electric Institute,EDISON ELECTRIC INSTITUTE,15000,2026-03-20,entity_exact
@@ -291,6 +292,7 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2025,RAGA,NextEra,Florida Power & Light,FLORIDA POWER AND LIGHT COMPANY,15000,2025-10-27,entity_simplified
 2025,RAGA,PPL Corporation,LGandE and KU Services,LGANDE AND KU SERVICES COMPANY,15000,2025-10-28,entity_simplified
 2025,RAGA,Berkshire Hathaway Energy,MidAmerican Energy,MIDAMERICAN ENERGY COMPANY,15000,2025-03-25,entity_simplified
+2025,RAGA,Emera,TECO Energy,TECO HOLDINGS INC,15000,2025-02-03,entity_simplified
 2025,RGA,NextEra,NextEra,NEXTERA ENERGY RESOURCES LLC,15000,2025-03-28,entity_word_boundary
 2025,RSLC,American Gas Association,American Gas Association,AMERICAN GAS ASSOCIATION,15000,2025-03-11,entity_exact
 2025,RSLC,Duquesne Light Company,Duquesne Light Company,DUQUESNE LIGHT COMPANY,15000,2025-05-13,entity_exact
@@ -1598,6 +1600,7 @@ year,org_short,utility_parent_company,utility_entity_matched,contributor_name,am
 2019,RAGA,Vistra Energy,Vistra Corporate Services,VISTRA CORPORATE SERVICES COMPANY,300,2019-11-20,entity_simplified
 2019,RSLC,Dominion Energy,Dominion Energy Services,"DOMINION ENERGY SERVICES, INC.",299,2019-10-30,entity_simplified
 2019,RSLC,Fortis,ITC Holdings,ITC HOLDINGS CORP,299,2019-09-24,entity_exact
+2019,RSLC,Consumer Energy Alliance,Consumer Energy Alliance,CONSUMER ENERGY ALLIANCE,275,2019-04-29,entity_exact
 2019,DLCC,Alliant Energy,Alliant Energy,ALLIANT ENERGY CORPORATION,250,2019-06-19,entity_simplified
 2019,DLCC,Alliant Energy,Alliant Energy,ALLIANT ENERGY CORPORATION,250,2019-08-14,entity_simplified
 2019,DLCC,DTE Energy,DTE Energy,DTE ENERGY PAC,250,2019-08-23,entity_simplified
