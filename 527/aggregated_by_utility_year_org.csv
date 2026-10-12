@@ -745,6 +745,7 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2019,FirstEnergy,RGA,150000,3
 2019,Pinnacle West Capital,RGA,150000,1
 2019,Southern Company,RGA,150000,2
+2019,Vistra Energy,DGA,150000,2
 2019,Alliant Energy,RSLC,125649,6
 2019,Entergy,RAGA,125000,1
 2019,Exelon,DGA,125000,2
@@ -752,7 +753,6 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2019,Alliant Energy,RGA,100450,3
 2019,Edison Electric Institute,RGA,100450,2
 2019,American Electric Power,DGA,100000,1
-2019,FirstEnergy,DGA,100000,1
 2019,NextEra,DAGA,100000,2
 2019,Xcel Energy,DGA,100000,1
 2019,Xcel Energy,RGA,100000,1
@@ -784,7 +784,6 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2019,ONE Gas,RGA,50000,1
 2019,Public Service Enterprise Group,RGA,50000,1
 2019,Sempra Energy,RGA,50000,2
-2019,Vistra Energy,DGA,50000,1
 2019,CenterPoint Energy,RSLC,40500,3
 2019,American Electric Power,RSLC,40000,1
 2019,Duke Energy,GOPAC,40000,3
@@ -852,7 +851,7 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2018,NextEra,DGA,545000,6
 2018,FirstEnergy,RGA,530000,3
 2018,NextEra,RAGA,475255,5
-2018,FirstEnergy,DGA,350000,3
+2018,Vistra Energy,DGA,275000,2
 2018,Berkshire Hathaway Energy,RGA,200000,4
 2018,NextEra,RSLC,177145,8
 2018,Duke Energy,RGA,170000,5
@@ -873,6 +872,7 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2018,American Electric Power,RGA,100000,2
 2018,Eversource,DGA,100000,1
 2018,Exelon,DGA,100000,1
+2018,FirstEnergy,DGA,100000,2
 2018,Xcel Energy,DGA,100000,1
 2018,Nuclear Energy Institute,DGA,85000,2
 2018,Dominion Energy,RGA,75000,2
@@ -915,7 +915,6 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2018,NextEra,DLCC,25000,1
 2018,Nuclear Energy Institute,RAGA,25000,1
 2018,TXNM Energy,RGA,25000,3
-2018,Vistra Energy,DGA,25000,1
 2018,American Gas Association,DGA,20350,2
 2018,Alliant Energy,DAGA,20000,2
 2018,American Gas Association,RGA,20000,1
@@ -1079,7 +1078,6 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2016,Dominion Energy,DGA,60000,1
 2016,Nuclear Energy Institute,DLCC,60000,2
 2016,Southern Company,RSLC,56620,9
-2016,Vistra Energy,RSLC,51198,7
 2016,NextEra,RAGA,51000,4
 2016,Dominion Energy,RGA,50450,2
 2016,DTE Energy,RGA,50000,1
@@ -1087,12 +1085,14 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2016,Entergy,DGA,50000,1
 2016,Entergy,RGA,50000,1
 2016,FirstEnergy,DGA,50000,1
+2016,Sempra Energy,RSLC,48698,8
 2016,CenterPoint Energy,RSLC,47000,3
 2016,American Electric Power,RGA,45000,2
 2016,Edison Electric Institute,RSLC,45000,2
 2016,Eversource,RGA,40000,1
 2016,Puget Sound Energy,DGA,37500,3
 2016,American Gas Association,RGA,36500,3
+2016,Sempra Energy,RAGA,35860,5
 2016,Atmos Energy,RSLC,35470,3
 2016,Dominion Energy,RSLC,35325,3
 2016,CenterPoint Energy,RGA,35000,2
@@ -1102,7 +1102,6 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2016,Southern Company,DAGA,30000,2
 2016,NRG Energy,RGA,26350,6
 2016,Fortis,RSLC,26000,2
-2016,Vistra Energy,RAGA,25535,3
 2016,AES Corporation,RGA,25450,2
 2016,Dominion Energy,DLCC,25400,2
 2016,AES Corporation,DGA,25350,2
@@ -1137,13 +1136,12 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2016,Entergy,RAGA,15000,1
 2016,Nuclear Energy Institute,DAGA,15000,1
 2016,Vistra Energy,DLCC,12500,1
-2016,Sempra Energy,RAGA,10325,2
 2016,Alta Gas,RGA,10000,1
 2016,Evergy,RGA,10000,1
 2016,NRG Energy,RSLC,10000,1
 2016,Puget Sound Energy,RSLC,10000,1
+2016,Vistra Energy,RSLC,10000,1
 2016,Xcel Energy,RAGA,10000,1
-2016,Sempra Energy,RSLC,7500,2
 2016,Salt River Project,RAGA,5000,1
 2016,Calpine,RSLC,4000,1
 2016,PPL Corporation,DLCC,2500,1
@@ -1187,11 +1185,11 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2015,Duke Energy,RSLC,31749,3
 2015,FirstEnergy,DGA,30000,1
 2015,Xcel Energy,RSLC,30000,2
-2015,Vistra Energy,RSLC,27899,3
+2015,Sempra Energy,RSLC,27899,3
 2015,National Rural Electric Cooperative Association,RSLC,27500,2
 2015,Berkshire Hathaway Energy,RAGA,26000,2
 2015,Edison Electric Institute,RSLC,25749,3
-2015,Vistra Energy,RAGA,25610,2
+2015,Sempra Energy,RAGA,25610,2
 2015,Nuclear Energy Institute,RAGA,25375,3
 2015,American Electric Power,RAGA,25000,2
 2015,Avangrid,DGA,25000,1
@@ -1312,7 +1310,6 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2014,Public Service Enterprise Group,RSLC,25000,1
 2014,Puget Sound Energy,DGA,25000,1
 2014,Vistra Energy,DLCC,22500,2
-2014,Vistra Energy,RAGA,22110,6
 2014,American Gas Association,DGA,20700,3
 2014,American Gas Association,GOPAC,20000,2
 2014,American Gas Association,RGA,20000,1
@@ -1327,7 +1324,8 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2014,Duke Energy,DAGA,15000,1
 2014,Nuclear Energy Institute,RAGA,15000,1
 2014,Puget Sound Energy,RSLC,15000,1
-2014,Vistra Energy,RSLC,13298,4
+2014,Sempra Energy,RAGA,15000,1
+2014,Sempra Energy,RSLC,13298,4
 2014,Alliant Energy,DAGA,10000,1
 2014,Alliant Energy,RAGA,10000,1
 2014,Ameren,DGA,10000,2
@@ -1338,6 +1336,7 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2014,Nuclear Energy Institute,DAGA,10000,1
 2014,Unitil,DGA,10000,1
 2014,WEC Energy,DGA,10000,1
+2014,Vistra Energy,RAGA,7110,5
 2014,FirstEnergy,DLCC,5000,1
 2014,PPL Corporation,DGA,5000,1
 2014,Puget Sound Energy,DAGA,2500,1
@@ -1376,7 +1375,7 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2013,Duke Energy,RSLC,50000,2
 2013,Edison Electric Institute,DGA,40325,3
 2013,Dominion Energy,RSLC,35000,2
-2013,Vistra Energy,RSLC,33759,7
+2013,Sempra Energy,RSLC,33759,7
 2013,American Gas Association,RSLC,32270,8
 2013,Alliant Energy,RSLC,30350,3
 2013,AES Corporation,RGA,25900,3
@@ -1449,6 +1448,7 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2012,National Grid,DGA,50000,1
 2012,Nuclear Energy Institute,DLCC,50000,1
 2012,Edison Electric Institute,DGA,40350,3
+2012,Sempra Energy,RSLC,35598,5
 2012,Berkshire Hathaway Energy,RGA,35450,3
 2012,Public Service Enterprise Group,RGA,35450,3
 2012,Alliant Energy,RSLC,35000,2
@@ -1457,7 +1457,6 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2012,American Gas Association,RSLC,29296,8
 2012,Exelon,RGA,26350,4
 2012,American Electric Power,RSLC,26273,7
-2012,Vistra Energy,RSLC,25598,4
 2012,AES Corporation,RGA,25450,2
 2012,Edison Electric Institute,RGA,25450,2
 2012,AES Corporation,DGA,25350,2
@@ -1494,7 +1493,6 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2012,FirstEnergy,DGA,10000,1
 2012,NiSource,RSLC,10000,1
 2012,Puget Sound Energy,DGA,10000,1
-2012,Sempra Energy,RSLC,10000,1
 2012,American Gas Association,DLCC,5000,1
 2012,Duke Energy,DAGA,5000,1
 2012,Pinnacle West Capital,RSLC,5000,1
@@ -1502,7 +1500,7 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2012,Southwest Gas,RSLC,597,1
 2012,PPL Corporation,DGA,350,1
 2012,Southern Company,RSLC,299,1
-2011,Exelon,DGA,331350,10
+2011,Exelon,DGA,281000,8
 2011,Duke Energy,DGA,280500,6
 2011,NextEra,RGA,261007,3
 2011,FirstEnergy,RGA,250000,1
@@ -1517,7 +1515,8 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2011,Nuclear Energy Institute,DGA,100000,1
 2011,Nuclear Energy Institute,RSLC,77899,7
 2011,American Electric Power,DGA,75000,2
-2011,Exelon,RGA,61350,5
+2011,Constellation,RGA,50450,2
+2011,Constellation,DGA,50350,2
 2011,Edison Electric Institute,RSLC,50215,2
 2011,American Electric Power,RGA,50000,1
 2011,Calpine,DGA,50000,1
@@ -1528,7 +1527,7 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2011,NextEra,RSLC,50000,1
 2011,Nuclear Energy Institute,DLCC,50000,1
 2011,Pinnacle West Capital,RGA,50000,1
-2011,Vistra Energy,RGA,50000,1
+2011,Sempra Energy,RGA,50000,1
 2011,Dominion Energy,DGA,35000,2
 2011,AES Corporation,RGA,25900,3
 2011,Alliant Energy,RGA,25450,2
@@ -1548,10 +1547,11 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2011,American Gas Association,RSLC,15299,3
 2011,Dominion Energy,DAGA,15000,1
 2011,Exelon,RSLC,15000,1
-2011,Vistra Energy,RSLC,12799,3
+2011,Sempra Energy,RSLC,12799,3
 2011,Public Service Enterprise Group,RSLC,12500,2
 2011,Vistra Energy,DLCC,12500,1
 2011,American Gas Association,GOPAC,12285,2
+2011,Exelon,RGA,10900,3
 2011,American Electric Power,RSLC,10299,2
 2011,American Electric Power,DAGA,10000,1
 2011,Public Service Enterprise Group,DGA,10000,1
@@ -1568,7 +1568,7 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2010,NextEra,DGA,455000,5
 2010,Duke Energy,DGA,450000,8
 2010,American Electric Power,RGA,150450,4
-2010,Vistra Energy,RGA,150450,3
+2010,Sempra Energy,RGA,150450,3
 2010,American Electric Power,DGA,150000,2
 2010,Duke Energy,RGA,150000,4
 2010,Southern Company,DGA,100000,1
@@ -1579,10 +1579,9 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2010,Entergy,RGA,50760,2
 2010,Edison Electric Institute,DGA,50093,5
 2010,Berkshire Hathaway Energy,DGA,50000,2
+2010,Constellation,RGA,50000,1
 2010,Edison Electric Institute,RSLC,50000,1
-2010,Exelon,RGA,50000,1
 2010,FirstEnergy,RSLC,50000,1
-2010,Exelon,DGA,47500,5
 2010,Southern Company,RGA,35900,4
 2010,Public Service Enterprise Group,RGA,35450,3
 2010,CenterPoint Energy,RGA,27000,2
@@ -1594,6 +1593,7 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2010,Xcel Energy,RGA,25450,2
 2010,Ameren,DGA,25000,1
 2010,Avista Corporation,DGA,25000,1
+2010,Constellation,DGA,25000,1
 2010,Dominion Energy,DAGA,25000,1
 2010,Edison Electric Institute,DAGA,25000,1
 2010,Evergy,DGA,25000,1
@@ -1601,11 +1601,12 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2010,Pinnacle West Capital,RGA,25000,2
 2010,Xcel Energy,DGA,25000,1
 2010,Berkshire Hathaway Energy,DLCC,23000,2
+2010,Exelon,DGA,22500,4
 2010,American Gas Association,RGA,20450,2
 2010,American Gas Association,DGA,20000,2
 2010,Exelon,DLCC,20000,2
 2010,Edison Electric Institute,RGA,15450,2
-2010,Vistra Energy,RSLC,15299,3
+2010,Sempra Energy,RSLC,15299,3
 2010,Nuclear Energy Institute,RSLC,12500,2
 2010,Vistra Energy,DLCC,12500,1
 2010,Nuclear Energy Institute,DLCC,12000,1
@@ -1670,7 +1671,7 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2009,Edison Electric Institute,RGA,15450,2
 2009,Berkshire Hathaway Energy,RGA,15000,2
 2009,Exelon,DLCC,15000,1
-2009,Vistra Energy,RSLC,15000,2
+2009,Sempra Energy,RSLC,15000,2
 2009,Vistra Energy,DLCC,12500,1
 2009,Nuclear Energy Institute,DLCC,12000,1
 2009,Nuclear Energy Institute,RSLC,10299,3
@@ -1735,7 +1736,7 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2008,Exelon,DGA,10000,1
 2008,Exelon,DLCC,10000,1
 2008,NiSource,RSLC,10000,1
-2008,Vistra Energy,RSLC,10000,1
+2008,Sempra Energy,RSLC,10000,1
 2008,WEC Energy,DGA,10000,1
 2008,Xcel Energy,DGA,6000,1
 2008,Nuclear Energy Institute,RSLC,5299,2
@@ -1753,6 +1754,7 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2007,American Electric Power,DGA,50000,1
 2007,American Electric Power,RGA,50000,1
 2007,Edison Electric Institute,RSLC,50000,1
+2007,Sempra Energy,RGA,37500,2
 2007,Dominion Energy,RSLC,35000,2
 2007,Dominion Energy,DGA,25250,2
 2007,Avista Corporation,DGA,25000,1
@@ -1763,7 +1765,6 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2007,Edison Electric Institute,DAGA,25000,1
 2007,Eversource,DGA,25000,1
 2007,Puget Sound Energy,DGA,25000,1
-2007,Vistra Energy,RGA,25000,1
 2007,Xcel Energy,DGA,25000,1
 2007,Xcel Energy,RGA,25000,1
 2007,American Gas Association,RSLC,20399,3
@@ -1772,23 +1773,23 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2007,Duke Energy,RGA,15000,2
 2007,Duke Energy,RSLC,15000,1
 2007,Edison Electric Institute,RGA,15000,1
-2007,Exelon,RSLC,15000,2
 2007,Public Service Enterprise Group,DGA,15000,1
 2007,Public Service Enterprise Group,RGA,15000,1
 2007,Sempra Energy,DGA,12500,1
-2007,Sempra Energy,RGA,12500,1
 2007,Edison Electric Institute,DLCC,12000,1
 2007,American Gas Association,DGA,11675,3
 2007,Calpine,DGA,10000,1
 2007,Calpine,RGA,10000,1
+2007,Constellation,RGA,10000,1
 2007,DTE Energy,RGA,10000,1
 2007,Edison Electric Institute,DGA,10000,1
-2007,Exelon,RGA,10000,1
+2007,Exelon,RSLC,10000,1
 2007,National Grid,RGA,10000,1
 2007,Pinnacle West Capital,DGA,10000,1
-2007,Vistra Energy,RSLC,10000,1
+2007,Sempra Energy,RSLC,10000,1
 2007,Nuclear Energy Institute,DLCC,6000,1
 2007,American Gas Association,GOPAC,5000,1
+2007,Constellation,RSLC,5000,1
 2007,DTE Energy,RSLC,5000,1
 2007,Puget Sound Energy,RSLC,5000,1
 2007,Salt River Project,DAGA,5000,1
@@ -1820,7 +1821,7 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2006,Public Service Enterprise Group,DGA,15000,1
 2006,Xcel Energy,DGA,15000,2
 2006,Xcel Energy,RGA,15000,2
-2006,Exelon,DLCC,12000,1
+2006,Constellation,DLCC,12000,1
 2006,DTE Energy,RGA,10425,2
 2006,Nuclear Energy Institute,RGA,10425,2
 2006,American Gas Association,DGA,10390,2
@@ -1847,10 +1848,10 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2005,Pinnacle West Capital,DGA,15000,1
 2005,Public Service Enterprise Group,DGA,15000,2
 2005,Duke Energy,DLCC,12000,1
-2005,Exelon,RGA,10425,2
 2005,AES Corporation,RGA,10000,1
 2005,Calpine,DGA,10000,1
-2005,Exelon,DGA,10000,1
+2005,Constellation,DGA,10000,1
+2005,Constellation,RGA,10000,1
 2005,NextEra,RGA,10000,1
 2005,Salt River Project,DGA,10000,1
 2005,WEC Energy,DGA,10000,1
@@ -1860,6 +1861,7 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2005,MGE Energy,DGA,5000,1
 2005,Puget Sound Energy,RSLC,5000,1
 2005,NextEra,GOPAC,2500,1
+2005,Exelon,RGA,425,1
 2004,American Gas Association,RGA,277454,7
 2004,Edison Electric Institute,RGA,56815,8
 2004,American Gas Association,DGA,47566,5
@@ -1870,17 +1872,18 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2004,Public Service Enterprise Group,RGA,22085,5
 2004,DTE Energy,RGA,20425,3
 2004,WEC Energy,DGA,20000,2
-2004,Exelon,RGA,17500,4
 2004,Duke Energy,RSLC,17000,3
 2004,Duke Energy,RGA,15000,3
+2004,Exelon,RGA,15000,3
 2004,Duke Energy,DLCC,12000,1
 2004,Southern Company,RGA,11000,2
 2004,Pinnacle West Capital,DGA,10000,1
 2004,Public Service Enterprise Group,DGA,10000,1
 2004,Salt River Project,DGA,10000,2
-2004,Vistra Energy,RGA,10000,1
+2004,Sempra Energy,RGA,10000,1
 2004,Nuclear Energy Institute,RGA,5425,2
 2004,Avista Corporation,DLCC,5000,1
+2004,Constellation,RGA,2500,1
 2004,Edison International,GOPAC,2500,1
 2004,Berkshire Hathaway Energy,DLCC,1000,1
 2004,American Electric Power,RGA,425,1
@@ -1900,7 +1903,7 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2003,FirstEnergy,RGA,10000,1
 2003,NextEra,RGA,10000,2
 2003,Public Service Enterprise Group,DGA,10000,1
-2003,Vistra Energy,RGA,10000,1
+2003,Sempra Energy,RGA,10000,1
 2003,Calpine,DGA,7500,1
 2003,Exelon,DGA,7500,1
 2003,AES Corporation,DLCC,5000,1
@@ -1914,7 +1917,7 @@ year,utility_parent_company,org_short,total_contributions_usd,n_contributions
 2002,Eversource,RGA,25000,1
 2002,Exelon,RGA,20539,2
 2002,Calpine,RGA,15000,1
-2002,Vistra Energy,RGA,15000,1
+2002,Sempra Energy,RGA,15000,1
 2002,CMS Energy,RGA,10000,1
 2002,Duke Energy,RGA,7500,1
 2002,Pinnacle West Capital,RGA,5000,1
